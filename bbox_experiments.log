@@ -1,0 +1,6875 @@
+
+==================================================
+Начало: 2026-01-14 00:46:21.889499
+Таймаут: 7.7 часов
+==================================================
+
+[Время: 2026-01-14 00:46:24.367060] [Прошло: 0:00:02.477561]
+Итерация 1 - Параметры: n=1000, r=10
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.765509
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+[3] n= 89: 0.347120967066 -> 0.347120964455 (0.0000% better) 🏆
+[7] n=121: 0.351342946144 -> 0.351342926727 (0.0000% better) 🏆
+[12] n=129: 0.341399211236 -> 0.341399175375 (0.0000% better) 🏆
+
+========================================
+Optimization Complete
+Initial Score: 70.765509393665
+Final Score:   70.765509335776
+Improvement:   0.000000057888 (0.00%)
+Total Time:    7.9s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1000_r10_i1.csv
+---
+
+==================================================
+✅ ВСЕ ЭКСПЕРИМЕНТЫ ЗАВЕРШЕНЫ!
+Начало: 2026-01-14 00:46:21.889499
+Завершение: 2026-01-14 00:46:34.803793
+Общее время: 0:00:12.914294
+Выполнено запусков: 1 из 99
+Начальная метрика: 70.765509393665
+Финальная метрика: 70.765509335776
+Прирост метрики:   0.000000057888
+==================================================
+
+==================================================
+Начало: 2026-01-14 00:49:48.394962
+Таймаут: 7.7 часов
+==================================================
+
+[Время: 2026-01-14 00:49:50.833481] [Прошло: 0:00:02.438519]
+Итерация 1 - Параметры: n=1000, r=10
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.765509
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+[11] n= 89: 0.347120964455 -> 0.347120382646 (0.0002% better) 🏆
+
+========================================
+Optimization Complete
+Initial Score: 70.765509335776
+Final Score:   70.765508753967
+Improvement:   0.000000581810 (0.00%)
+Total Time:    8.2s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1000_r10_i1.csv
+---
+
+==================================================
+✅ ВСЕ ЭКСПЕРИМЕНТЫ ЗАВЕРШЕНЫ!
+Начало: 2026-01-14 00:49:48.394962
+Завершение: 2026-01-14 00:50:01.523658
+Общее время: 0:00:13.128696
+Выполнено запусков: 1 из 99
+Начальная метрика: 70.765509335776
+Финальная метрика: 70.765508753967
+Прирост метрики:   0.000000581810
+==================================================
+
+==================================================
+Начало: 2026-01-14 00:50:14.104977
+Таймаут: 7.7 часов
+==================================================
+
+[Время: 2026-01-14 00:50:16.563944] [Прошло: 0:00:02.458967]
+Итерация 1 - Параметры: n=1000, r=10
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.765509
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+[14] n=121: 0.351342926727 -> 0.351342874300 (0.0000% better) 🏆
+
+========================================
+Optimization Complete
+Initial Score: 70.765508753967
+Final Score:   70.765508701539
+Improvement:   0.000000052428 (0.00%)
+Total Time:    8.4s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1000_r10_i1.csv
+---
+
+[Время: 2026-01-14 00:50:27.496114] [Прошло: 0:00:13.391137]
+Итерация 2 - Параметры: n=1100, r=10
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.765509
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+[4] n=129: 0.341399175375 -> 0.341399121680 (0.0000% better) 🏆
+
+========================================
+Optimization Complete
+Initial Score: 70.765508701539
+Final Score:   70.765508647844
+Improvement:   0.000000053695 (0.00%)
+Total Time:    8.6s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1100_r10_i2.csv
+---
+
+[Время: 2026-01-14 00:50:38.616727] [Прошло: 0:00:24.511750]
+Итерация 3 - Параметры: n=1200, r=10
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.765509
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+[10] n= 81: 0.359883341205 -> 0.359883306798 (0.0000% better) 🏆
+[11] n=108: 0.343570510449 -> 0.343570468158 (0.0000% better) 🏆
+
+========================================
+Optimization Complete
+Initial Score: 70.765508647844
+Final Score:   70.765508571145
+Improvement:   0.000000076699 (0.00%)
+Total Time:    8.9s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1200_r10_i3.csv
+---
+
+[Время: 2026-01-14 00:50:49.995516] [Прошло: 0:00:35.890539]
+Итерация 4 - Параметры: n=1300, r=10
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.765509
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.765508571145
+Final Score:   70.765508571145
+Improvement:   0.000000000000 (0.00%)
+Total Time:    8.4s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1300_r10_i4.csv
+---
+
+[Время: 2026-01-14 00:51:00.880682] [Прошло: 0:00:46.775705]
+Итерация 5 - Параметры: n=1400, r=10
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.765509
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.765508571145
+Final Score:   70.765508571145
+Improvement:   0.000000000000 (0.00%)
+Total Time:    9.0s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1400_r10_i5.csv
+---
+
+[Время: 2026-01-14 00:51:12.388643] [Прошло: 0:00:58.283666]
+Итерация 6 - Параметры: n=1500, r=10
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.765509
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+[11] n=193: 0.337460641790 -> 0.337460599858 (0.0000% better) 🏆
+[2] n= 97: 0.352362923633 -> 0.352362419656 (0.0001% better) 🏆
+
+========================================
+Optimization Complete
+Initial Score: 70.765508571145
+Final Score:   70.765508025237
+Improvement:   0.000000545908 (0.00%)
+Total Time:    8.6s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1500_r10_i6.csv
+---
+
+[Время: 2026-01-14 00:51:23.539093] [Прошло: 0:01:09.434116]
+Итерация 7 - Параметры: n=1600, r=10
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.765508
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.765508025237
+Final Score:   70.765508025237
+Improvement:   0.000000000000 (0.00%)
+Total Time:    11.3s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1600_r10_i7.csv
+---
+
+[Время: 2026-01-14 00:51:37.285968] [Прошло: 0:01:23.180991]
+Итерация 8 - Параметры: n=1700, r=10
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.765508
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+[5] n= 87: 0.353896036027 -> 0.353895924775 (0.0000% better) 🏆
+[6] n=193: 0.337460599858 -> 0.337459491517 (0.0003% better) 🏆
+
+========================================
+Optimization Complete
+Initial Score: 70.765508025237
+Final Score:   70.765506805643
+Improvement:   0.000001219594 (0.00%)
+Total Time:    8.9s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1700_r10_i8.csv
+---
+
+[Время: 2026-01-14 00:51:48.655697] [Прошло: 0:01:34.550720]
+Итерация 9 - Параметры: n=1800, r=10
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.765507
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+[9] n=196: 0.333956961507 -> 0.333956373538 (0.0002% better) 🏆
+[3] n=176: 0.338215313671 -> 0.338215243720 (0.0000% better) 🏆
+[2] n=128: 0.343861266938 -> 0.343861225733 (0.0000% better) 🏆
+
+========================================
+Optimization Complete
+Initial Score: 70.765506805643
+Final Score:   70.765506106519
+Improvement:   0.000000699124 (0.00%)
+Total Time:    8.4s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1800_r10_i9.csv
+---
+
+[Время: 2026-01-14 00:51:59.542209] [Прошло: 0:01:45.437232]
+Итерация 10 - Параметры: n=1900, r=10
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.765506
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+[12] n= 81: 0.359883306798 -> 0.359883299011 (0.0000% better) 🏆
+[13] n=176: 0.338215243720 -> 0.338215201566 (0.0000% better) 🏆
+
+========================================
+Optimization Complete
+Initial Score: 70.765506106519
+Final Score:   70.765506056577
+Improvement:   0.000000049941 (0.00%)
+Total Time:    8.8s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1900_r10_i10.csv
+---
+
+[Время: 2026-01-14 00:52:10.887435] [Прошло: 0:01:56.782458]
+Итерация 11 - Параметры: n=2000, r=10
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.765506
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+[10] n= 89: 0.347120382646 -> 0.347120366142 (0.0000% better) 🏆
+
+========================================
+Optimization Complete
+Initial Score: 70.765506056577
+Final Score:   70.765506040073
+Improvement:   0.000000016504 (0.00%)
+Total Time:    10.6s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n2000_r10_i11.csv
+---
+
+[Время: 2026-01-14 00:52:24.040476] [Прошло: 0:02:09.935499]
+Итерация 12 - Параметры: n=1000, r=20
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.765506
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.765506040073
+Final Score:   70.765506040073
+Improvement:   0.000000000000 (0.00%)
+Total Time:    15.3s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1000_r20_i12.csv
+---
+
+[Время: 2026-01-14 00:52:41.943316] [Прошло: 0:02:27.838339]
+Итерация 13 - Параметры: n=1100, r=20
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.765506
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+[0] n=195: 0.335015716160 -> 0.335015698322 (0.0000% better) 🏆
+[13] n= 87: 0.353895924775 -> 0.353895597857 (0.0001% better) 🏆
+[4] n= 97: 0.352362419656 -> 0.352362369633 (0.0000% better) 🏆
+
+========================================
+Optimization Complete
+Initial Score: 70.765506040073
+Final Score:   70.765505645295
+Improvement:   0.000000394779 (0.00%)
+Total Time:    15.2s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1100_r20_i13.csv
+---
+
+[Время: 2026-01-14 00:52:59.650096] [Прошло: 0:02:45.545119]
+Итерация 14 - Параметры: n=1200, r=20
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.765506
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+[15] n= 97: 0.352362369633 -> 0.352352664946 (0.0028% better) 🏆
+
+========================================
+Optimization Complete
+Initial Score: 70.765505645295
+Final Score:   70.765495940608
+Improvement:   0.000009704687 (0.00%)
+Total Time:    15.0s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1200_r20_i14.csv
+---
+
+[Время: 2026-01-14 00:53:17.102578] [Прошло: 0:03:02.997601]
+Итерация 15 - Параметры: n=1300, r=20
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.765496
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+[10] n=193: 0.337459491517 -> 0.337459177264 (0.0001% better) 🏆
+[11] n=107: 0.346119200222 -> 0.346119069173 (0.0000% better) 🏆
+
+========================================
+Optimization Complete
+Initial Score: 70.765495940608
+Final Score:   70.765495495306
+Improvement:   0.000000445302 (0.00%)
+Total Time:    15.8s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1300_r20_i15.csv
+---
+
+[Время: 2026-01-14 00:53:35.436126] [Прошло: 0:03:21.331149]
+Итерация 16 - Параметры: n=1400, r=20
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.765495
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.765495495306
+Final Score:   70.765495495306
+Improvement:   0.000000000000 (0.00%)
+Total Time:    15.1s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1400_r20_i16.csv
+---
+
+[Время: 2026-01-14 00:53:52.996077] [Прошло: 0:03:38.891100]
+Итерация 17 - Параметры: n=1500, r=20
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.765495
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+[12] n=195: 0.335015698322 -> 0.335015618781 (0.0000% better) 🏆
+
+========================================
+Optimization Complete
+Initial Score: 70.765495495306
+Final Score:   70.765495415765
+Improvement:   0.000000079541 (0.00%)
+Total Time:    16.1s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1500_r20_i17.csv
+---
+
+[Время: 2026-01-14 00:54:11.566319] [Прошло: 0:03:57.461342]
+Итерация 18 - Параметры: n=1600, r=20
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.765495
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.765495415765
+Final Score:   70.765495415765
+Improvement:   0.000000000000 (0.00%)
+Total Time:    16.3s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1600_r20_i18.csv
+---
+
+[Время: 2026-01-14 00:54:30.338939] [Прошло: 0:04:16.233962]
+Итерация 19 - Параметры: n=1700, r=20
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.765495
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.765495415765
+Final Score:   70.765495415765
+Improvement:   0.000000000000 (0.00%)
+Total Time:    15.8s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1700_r20_i19.csv
+---
+
+[Время: 2026-01-14 00:54:48.613500] [Прошло: 0:04:34.508523]
+Итерация 20 - Параметры: n=1800, r=20
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.765495
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+[11] n=193: 0.337459177264 -> 0.337458511935 (0.0002% better) 🏆
+[12] n=128: 0.343861225733 -> 0.343861185083 (0.0000% better) 🏆
+
+========================================
+Optimization Complete
+Initial Score: 70.765495415765
+Final Score:   70.765494709785
+Improvement:   0.000000705980 (0.00%)
+Total Time:    17.0s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1800_r20_i20.csv
+---
+
+[Время: 2026-01-14 00:55:08.178536] [Прошло: 0:04:54.073559]
+Итерация 21 - Параметры: n=1900, r=20
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.765495
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+[12] n= 97: 0.352352664946 -> 0.352351656651 (0.0003% better) 🏆
+
+========================================
+Optimization Complete
+Initial Score: 70.765494709785
+Final Score:   70.765493701489
+Improvement:   0.000001008296 (0.00%)
+Total Time:    18.0s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1900_r20_i21.csv
+---
+
+[Время: 2026-01-14 00:55:28.715743] [Прошло: 0:05:14.610766]
+Итерация 22 - Параметры: n=2000, r=20
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.765494
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+[10] n= 97: 0.352351656651 -> 0.352351182586 (0.0001% better) 🏆
+
+========================================
+Optimization Complete
+Initial Score: 70.765493701489
+Final Score:   70.765493227424
+Improvement:   0.000000474065 (0.00%)
+Total Time:    17.3s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n2000_r20_i22.csv
+---
+
+[Время: 2026-01-14 00:55:48.618958] [Прошло: 0:05:34.513981]
+Итерация 23 - Параметры: n=1000, r=30
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.765489
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+[9] n=196: 0.333956373538 -> 0.333956064827 (0.0001% better) 🏆
+[8] n= 90: 0.343368509747 -> 0.343368306577 (0.0001% better) 🏆
+[14] n= 97: 0.352346908255 -> 0.352346824188 (0.0000% better) 🏆
+
+========================================
+Optimization Complete
+Initial Score: 70.765488953094
+Final Score:   70.765488357146
+Improvement:   0.000000595947 (0.00%)
+Total Time:    22.6s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1000_r30_i23.csv
+---
+
+[Время: 2026-01-14 00:56:13.674656] [Прошло: 0:05:59.569679]
+Итерация 24 - Параметры: n=1100, r=30
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.765488
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+[0] n=195: 0.335015618781 -> 0.335015601431 (0.0000% better) 🏆
+[1] n= 81: 0.359883299011 -> 0.359883268721 (0.0000% better) 🏆
+[7] n= 90: 0.343368306577 -> 0.343368083710 (0.0001% better) 🏆
+[8] n=129: 0.341399121680 -> 0.341399050465 (0.0000% better) 🏆
+
+========================================
+Optimization Complete
+Initial Score: 70.765488357146
+Final Score:   70.765488015426
+Improvement:   0.000000341721 (0.00%)
+Total Time:    23.8s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1100_r30_i24.csv
+---
+
+[Время: 2026-01-14 00:56:39.946487] [Прошло: 0:06:25.841510]
+Итерация 25 - Параметры: n=1200, r=30
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.765488
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+[13] n= 97: 0.352346824188 -> 0.352346676902 (0.0000% better) 🏆
+
+========================================
+Optimization Complete
+Initial Score: 70.765488015426
+Final Score:   70.765487868140
+Improvement:   0.000000147286 (0.00%)
+Total Time:    22.3s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1200_r30_i25.csv
+---
+
+[Время: 2026-01-14 00:57:04.724045] [Прошло: 0:06:50.619068]
+Итерация 26 - Параметры: n=1300, r=30
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.765488
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+[0] n=196: 0.333956064827 -> 0.333955430401 (0.0002% better) 🏆
+
+========================================
+Optimization Complete
+Initial Score: 70.765487868140
+Final Score:   70.765487233713
+Improvement:   0.000000634426 (0.00%)
+Total Time:    25.9s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1300_r30_i26.csv
+---
+
+[Время: 2026-01-14 00:57:33.185029] [Прошло: 0:07:19.080052]
+Итерация 27 - Параметры: n=1400, r=30
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.765487
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.765487233713
+Final Score:   70.765487233713
+Improvement:   0.000000000000 (0.00%)
+Total Time:    24.3s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1400_r30_i27.csv
+---
+
+[Время: 2026-01-14 00:58:00.003374] [Прошло: 0:07:45.898397]
+Итерация 28 - Параметры: n=1500, r=30
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.765487
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+[7] n=196: 0.333955430401 -> 0.333955353933 (0.0000% better) 🏆
+
+========================================
+Optimization Complete
+Initial Score: 70.765487233713
+Final Score:   70.765487157246
+Improvement:   0.000000076468 (0.00%)
+Total Time:    22.6s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1500_r30_i28.csv
+---
+
+[Время: 2026-01-14 00:58:25.084203] [Прошло: 0:08:10.979226]
+Итерация 29 - Параметры: n=1600, r=30
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.765487
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+[3] n=198: 0.340184234802 -> 0.340184228853 (0.0000% better) 🏆
+[3] n=193: 0.337458511935 -> 0.337458408691 (0.0000% better) 🏆
+[7] n=176: 0.338215201566 -> 0.338215170334 (0.0000% better) 🏆
+[0] n= 97: 0.352346676902 -> 0.352346597773 (0.0000% better) 🏆
+
+========================================
+Optimization Complete
+Initial Score: 70.765487157246
+Final Score:   70.765486937692
+Improvement:   0.000000219553 (0.00%)
+Total Time:    23.8s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1600_r30_i29.csv
+---
+
+[Время: 2026-01-14 00:58:51.436547] [Прошло: 0:08:37.331570]
+Итерация 30 - Параметры: n=1700, r=30
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.765487
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.765486937692
+Final Score:   70.765486937692
+Improvement:   0.000000000000 (0.00%)
+Total Time:    23.7s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1700_r30_i30.csv
+---
+
+[Время: 2026-01-14 00:59:17.675560] [Прошло: 0:09:03.570583]
+Итерация 31 - Параметры: n=1800, r=30
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.765487
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+[3] n= 89: 0.347120366142 -> 0.347120358733 (0.0000% better) 🏆
+[4] n= 97: 0.352346597773 -> 0.352345980986 (0.0002% better) 🏆
+
+========================================
+Optimization Complete
+Initial Score: 70.765486937692
+Final Score:   70.765486313496
+Improvement:   0.000000624196 (0.00%)
+Total Time:    25.1s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1800_r30_i31.csv
+---
+
+[Время: 2026-01-14 00:59:45.269130] [Прошло: 0:09:31.164153]
+Итерация 32 - Параметры: n=1900, r=30
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.765486
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.765486313496
+Final Score:   70.765486313496
+Improvement:   0.000000000000 (0.00%)
+Total Time:    23.8s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1900_r30_i32.csv
+---
+
+[Время: 2026-01-14 01:00:11.552755] [Прошло: 0:09:57.447778]
+Итерация 33 - Параметры: n=2000, r=30
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.765486
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+[15] n= 97: 0.352345980986 -> 0.352341412701 (0.0013% better) 🏆
+
+========================================
+Optimization Complete
+Initial Score: 70.765486313496
+Final Score:   70.765481745212
+Improvement:   0.000004568285 (0.00%)
+Total Time:    24.0s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n2000_r30_i33.csv
+---
+
+[Время: 2026-01-14 01:00:38.107991] [Прошло: 0:10:24.003014]
+Итерация 34 - Параметры: n=1000, r=40
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.765480
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+[5] n= 97: 0.352339650595 -> 0.352338871653 (0.0002% better) 🏆
+
+========================================
+Optimization Complete
+Initial Score: 70.765479983106
+Final Score:   70.765479204164
+Improvement:   0.000000778942 (0.00%)
+Total Time:    30.8s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1000_r40_i34.csv
+---
+
+[Время: 2026-01-14 01:01:11.483507] [Прошло: 0:10:57.378530]
+Итерация 35 - Параметры: n=1100, r=40
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.765478
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+[2] n=193: 0.337458408691 -> 0.337458403573 (0.0000% better) 🏆
+[12] n= 97: 0.352337448922 -> 0.352336322374 (0.0003% better) 🏆
+
+========================================
+Optimization Complete
+Initial Score: 70.765477781433
+Final Score:   70.765476649766
+Improvement:   0.000001131667 (0.00%)
+Total Time:    32.0s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1100_r40_i35.csv
+---
+
+[Время: 2026-01-14 01:01:46.007038] [Прошло: 0:11:31.902061]
+Итерация 36 - Параметры: n=1200, r=40
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.765477
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+[14] n=196: 0.333955353933 -> 0.333954926247 (0.0001% better) 🏆
+[14] n=195: 0.335015601431 -> 0.335015575486 (0.0000% better) 🏆
+[5] n= 90: 0.343368083710 -> 0.343367985173 (0.0000% better) 🏆
+[15] n= 97: 0.352336322374 -> 0.352336237354 (0.0000% better) 🏆
+[8] n=130: 0.338807877700 -> 0.338807855142 (0.0000% better) 🏆
+
+========================================
+Optimization Complete
+Initial Score: 70.765476649766
+Final Score:   70.765475990020
+Improvement:   0.000000659746 (0.00%)
+Total Time:    34.1s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1200_r40_i36.csv
+---
+
+[Время: 2026-01-14 01:02:22.653035] [Прошло: 0:12:08.548058]
+Итерация 37 - Параметры: n=1300, r=40
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.765476
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+[4] n= 97: 0.352336237354 -> 0.352325488416 (0.0031% better) 🏆
+
+========================================
+Optimization Complete
+Initial Score: 70.765475990020
+Final Score:   70.765465241082
+Improvement:   0.000010748938 (0.00%)
+Total Time:    35.2s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1300_r40_i37.csv
+---
+
+[Время: 2026-01-14 01:03:00.430227] [Прошло: 0:12:46.325250]
+Итерация 38 - Параметры: n=1400, r=40
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.765463
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+[13] n= 97: 0.352323299535 -> 0.352322939839 (0.0001% better) 🏆
+
+========================================
+Optimization Complete
+Initial Score: 70.765463052201
+Final Score:   70.765462692505
+Improvement:   0.000000359696 (0.00%)
+Total Time:    31.4s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1400_r40_i38.csv
+---
+
+[Время: 2026-01-14 01:03:34.424519] [Прошло: 0:13:20.319542]
+Итерация 39 - Параметры: n=1500, r=40
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.765450
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+[2] n= 81: 0.359883268721 -> 0.359883233469 (0.0000% better) 🏆
+[7] n= 97: 0.352310199914 -> 0.352310188927 (0.0000% better) 🏆
+
+========================================
+Optimization Complete
+Initial Score: 70.765449952580
+Final Score:   70.765449906341
+Improvement:   0.000000046239 (0.00%)
+Total Time:    31.1s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1500_r40_i39.csv
+---
+
+[Время: 2026-01-14 01:04:08.148456] [Прошло: 0:13:54.043479]
+Итерация 40 - Параметры: n=1600, r=40
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.765441
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+[13] n= 97: 0.352301030713 -> 0.352300445896 (0.0002% better) 🏆
+
+========================================
+Optimization Complete
+Initial Score: 70.765440748127
+Final Score:   70.765440163310
+Improvement:   0.000000584816 (0.00%)
+Total Time:    33.4s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1600_r40_i40.csv
+---
+
+[Время: 2026-01-14 01:04:44.122038] [Прошло: 0:14:30.017061]
+Итерация 41 - Параметры: n=1700, r=40
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.765438
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+[5] n= 97: 0.352298185246 -> 0.352295838608 (0.0007% better) 🏆
+
+========================================
+Optimization Complete
+Initial Score: 70.765437902660
+Final Score:   70.765435556022
+Improvement:   0.000002346638 (0.00%)
+Total Time:    32.6s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1700_r40_i41.csv
+---
+
+[Время: 2026-01-14 01:05:19.252886] [Прошло: 0:15:05.147909]
+Итерация 42 - Параметры: n=1800, r=40
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.765429
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+[2] n= 97: 0.352289414861 -> 0.352285750230 (0.0010% better) 🏆
+
+========================================
+Optimization Complete
+Initial Score: 70.765429132275
+Final Score:   70.765425467644
+Improvement:   0.000003664632 (0.00%)
+Total Time:    32.9s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1800_r40_i42.csv
+---
+
+[Время: 2026-01-14 01:05:54.749234] [Прошло: 0:15:40.644257]
+Итерация 43 - Параметры: n=1900, r=40
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.765423
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+[5] n= 97: 0.352283719987 -> 0.352283202368 (0.0001% better) 🏆
+
+========================================
+Optimization Complete
+Initial Score: 70.765423437401
+Final Score:   70.765422919782
+Improvement:   0.000000517619 (0.00%)
+Total Time:    31.7s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1900_r40_i43.csv
+---
+
+[Время: 2026-01-14 01:06:29.059625] [Прошло: 0:16:14.954648]
+Итерация 44 - Параметры: n=2000, r=40
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.765422
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+[5] n= 97: 0.352282735767 -> 0.352281514337 (0.0003% better) 🏆
+
+========================================
+Optimization Complete
+Initial Score: 70.765422453181
+Final Score:   70.765421231751
+Improvement:   0.000001221430 (0.00%)
+Total Time:    33.1s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n2000_r40_i44.csv
+---
+
+[Время: 2026-01-14 01:07:04.743594] [Прошло: 0:16:50.638617]
+Итерация 45 - Параметры: n=1000, r=50
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.765421
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+[14] n= 97: 0.352281351777 -> 0.352272966152 (0.0024% better) 🏆
+
+========================================
+Optimization Complete
+Initial Score: 70.765421069191
+Final Score:   70.765412683566
+Improvement:   0.000008385625 (0.00%)
+Total Time:    38.4s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1000_r50_i45.csv
+---
+
+[Время: 2026-01-14 01:07:45.655634] [Прошло: 0:17:31.550657]
+Итерация 46 - Параметры: n=1100, r=50
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.765413
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.765412683566
+Final Score:   70.765412683566
+Improvement:   0.000000000000 (0.00%)
+Total Time:    39.1s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1100_r50_i46.csv
+---
+
+[Время: 2026-01-14 01:08:27.263705] [Прошло: 0:18:13.158728]
+Итерация 47 - Параметры: n=1200, r=50
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.765413
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+[14] n= 97: 0.352272966152 -> 0.352264399942 (0.0024% better) 🏆
+
+========================================
+Optimization Complete
+Initial Score: 70.765412683566
+Final Score:   70.765404117356
+Improvement:   0.000008566209 (0.00%)
+Total Time:    37.9s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1200_r50_i47.csv
+---
+
+[Время: 2026-01-14 01:09:07.754205] [Прошло: 0:18:53.649228]
+Итерация 48 - Параметры: n=1300, r=50
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.765403
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+[15] n=176: 0.338215170334 -> 0.338215167597 (0.0000% better) 🏆
+
+========================================
+Optimization Complete
+Initial Score: 70.765402774142
+Final Score:   70.765402771405
+Improvement:   0.000000002737 (0.00%)
+Total Time:    36.4s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1300_r50_i48.csv
+---
+
+[Время: 2026-01-14 01:09:46.665626] [Прошло: 0:19:32.560649]
+Итерация 49 - Параметры: n=1400, r=50
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.765403
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.765402771405
+Final Score:   70.765402771405
+Improvement:   0.000000000000 (0.00%)
+Total Time:    52.7s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1400_r50_i49.csv
+---
+
+[Время: 2026-01-14 01:10:42.787346] [Прошло: 0:20:28.682369]
+Итерация 50 - Параметры: n=1500, r=50
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.765403
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.765402771405
+Final Score:   70.765402771405
+Improvement:   0.000000000000 (0.00%)
+Total Time:    55.2s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1500_r50_i50.csv
+---
+
+[Время: 2026-01-14 01:11:42.519498] [Прошло: 0:21:28.414521]
+Итерация 51 - Параметры: n=1600, r=50
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.765403
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+[4] n= 97: 0.352263056728 -> 0.352263033941 (0.0000% better) 🏆
+
+========================================
+Optimization Complete
+Initial Score: 70.765402771405
+Final Score:   70.765402748618
+Improvement:   0.000000022787 (0.00%)
+Total Time:    65.4s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1600_r50_i51.csv
+---
+
+[Время: 2026-01-14 01:12:51.685808] [Прошло: 0:22:37.580831]
+Итерация 52 - Параметры: n=1700, r=50
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.765403
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.765402748618
+Final Score:   70.765402748618
+Improvement:   0.000000000000 (0.00%)
+Total Time:    71.6s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1700_r50_i52.csv
+---
+
+[Время: 2026-01-14 01:14:05.858172] [Прошло: 0:23:51.753195]
+Итерация 53 - Параметры: n=1800, r=50
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.765403
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+[8] n= 97: 0.352263033941 -> 0.352262475132 (0.0002% better) 🏆
+
+========================================
+Optimization Complete
+Initial Score: 70.765402748618
+Final Score:   70.765402189809
+Improvement:   0.000000558809 (0.00%)
+Total Time:    68.7s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1800_r50_i53.csv
+---
+
+[Время: 2026-01-14 01:15:18.079311] [Прошло: 0:25:03.974334]
+Итерация 54 - Параметры: n=1900, r=50
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.765402
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+[5] n= 97: 0.352262112526 -> 0.352261051410 (0.0003% better) 🏆
+
+========================================
+Optimization Complete
+Initial Score: 70.765401827204
+Final Score:   70.765400766087
+Improvement:   0.000001061116 (0.00%)
+Total Time:    53.4s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1900_r50_i54.csv
+---
+
+[Время: 2026-01-14 01:16:15.569742] [Прошло: 0:26:01.464765]
+Итерация 55 - Параметры: n=2000, r=50
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.765400
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+[9] n= 87: 0.353895597857 -> 0.353895457643 (0.0000% better) 🏆
+[8] n= 97: 0.352260270383 -> 0.352259795674 (0.0001% better) 🏆
+
+========================================
+Optimization Complete
+Initial Score: 70.765399985060
+Final Score:   70.765399370137
+Improvement:   0.000000614923 (0.00%)
+Total Time:    70.8s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n2000_r50_i55.csv
+---
+
+[Время: 2026-01-14 01:17:30.827773] [Прошло: 0:27:16.722796]
+Итерация 56 - Параметры: n=1000, r=60
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.765399
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+[6] n= 97: 0.352259615890 -> 0.352259593738 (0.0000% better) 🏆
+[8] n=128: 0.343861185083 -> 0.343861180253 (0.0000% better) 🏆
+
+========================================
+Optimization Complete
+Initial Score: 70.765399190353
+Final Score:   70.765399163372
+Improvement:   0.000000026981 (0.00%)
+Total Time:    64.0s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1000_r60_i56.csv
+---
+
+[Время: 2026-01-14 01:18:37.330633] [Прошло: 0:28:23.225656]
+Итерация 57 - Параметры: n=1100, r=60
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.765399
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+[12] n= 97: 0.352259593738 -> 0.352259415883 (0.0001% better) 🏆
+[4] n=128: 0.343861180253 -> 0.343861179489 (0.0000% better) 🏆
+
+========================================
+Optimization Complete
+Initial Score: 70.765399163372
+Final Score:   70.765398984753
+Improvement:   0.000000178618 (0.00%)
+Total Time:    70.3s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1100_r60_i57.csv
+---
+
+[Время: 2026-01-14 01:19:50.353704] [Прошло: 0:29:36.248727]
+Итерация 58 - Параметры: n=1200, r=60
+
+==================================================
+Начало: 2026-01-14 23:31:11.821025
+Таймаут: 7.7 часов
+==================================================
+
+[Время: 2026-01-14 23:31:15.783804] [Прошло: 0:00:03.962779]
+Итерация 1 - Параметры: n=1000, r=10
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743740
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+[3] n=128: 0.343859312333 -> 0.343859020129 (0.0001% better) 🏆
+
+========================================
+Optimization Complete
+Initial Score: 70.743739802111
+Final Score:   70.743739509907
+Improvement:   0.000000292204 (0.00%)
+Total Time:    15.8s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1000_r10_i1.csv
+---
+
+[Время: 2026-01-14 23:31:35.340916] [Прошло: 0:00:23.519891]
+Итерация 2 - Параметры: n=1100, r=10
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743740
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743739509907
+Final Score:   70.743739509907
+Improvement:   0.000000000000 (0.00%)
+Total Time:    15.6s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1100_r10_i2.csv
+---
+
+[Время: 2026-01-14 23:31:54.823301] [Прошло: 0:00:43.002276]
+Итерация 3 - Параметры: n=1200, r=10
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743740
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743739509907
+Final Score:   70.743739509907
+Improvement:   0.000000000000 (0.00%)
+Total Time:    12.8s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1200_r10_i3.csv
+---
+
+[Время: 2026-01-14 23:32:11.168248] [Прошло: 0:00:59.347223]
+Итерация 4 - Параметры: n=1300, r=10
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743740
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743739509907
+Final Score:   70.743739509907
+Improvement:   0.000000000000 (0.00%)
+Total Time:    11.6s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1300_r10_i4.csv
+---
+
+[Время: 2026-01-14 23:32:25.368663] [Прошло: 0:01:13.547638]
+Итерация 5 - Параметры: n=1400, r=10
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743740
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743739509907
+Final Score:   70.743739509907
+Improvement:   0.000000000000 (0.00%)
+Total Time:    11.4s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1400_r10_i5.csv
+---
+
+[Время: 2026-01-14 23:32:39.361894] [Прошло: 0:01:27.540869]
+Итерация 6 - Параметры: n=1500, r=10
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743740
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743739509907
+Final Score:   70.743739509907
+Improvement:   0.000000000000 (0.00%)
+Total Time:    10.1s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1500_r10_i6.csv
+---
+
+[Время: 2026-01-14 23:32:51.973580] [Прошло: 0:01:40.152555]
+Итерация 7 - Параметры: n=1600, r=10
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743740
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743739509907
+Final Score:   70.743739509907
+Improvement:   0.000000000000 (0.00%)
+Total Time:    9.7s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1600_r10_i7.csv
+---
+
+[Время: 2026-01-14 23:33:04.232913] [Прошло: 0:01:52.411888]
+Итерация 8 - Параметры: n=1700, r=10
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743740
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743739509907
+Final Score:   70.743739509907
+Improvement:   0.000000000000 (0.00%)
+Total Time:    9.2s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1700_r10_i8.csv
+---
+
+[Время: 2026-01-14 23:33:15.958710] [Прошло: 0:02:04.137685]
+Итерация 9 - Параметры: n=1800, r=10
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743740
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743739509907
+Final Score:   70.743739509907
+Improvement:   0.000000000000 (0.00%)
+Total Time:    10.8s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1800_r10_i9.csv
+---
+
+[Время: 2026-01-14 23:33:30.941302] [Прошло: 0:02:19.120277]
+Итерация 10 - Параметры: n=1900, r=10
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743740
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743739509907
+Final Score:   70.743739509907
+Improvement:   0.000000000000 (0.00%)
+Total Time:    13.3s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1900_r10_i10.csv
+---
+
+[Время: 2026-01-14 23:33:47.067115] [Прошло: 0:02:35.246090]
+Итерация 11 - Параметры: n=2000, r=10
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743740
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743740391705
+Final Score:   70.743740391705
+Improvement:   0.000000000000 (0.00%)
+Total Time:    16.1s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n2000_r10_i11.csv
+---
+
+[Время: 2026-01-14 23:34:06.277135] [Прошло: 0:02:54.456110]
+Итерация 12 - Параметры: n=1000, r=20
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743740
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+[0] n=128: 0.343859312333 -> 0.343859020129 (0.0001% better) 🏆
+
+========================================
+Optimization Complete
+Initial Score: 70.743739802111
+Final Score:   70.743739509907
+Improvement:   0.000000292204 (0.00%)
+Total Time:    24.2s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1000_r20_i12.csv
+---
+
+[Время: 2026-01-14 23:34:32.993407] [Прошло: 0:03:21.172382]
+Итерация 13 - Параметры: n=1100, r=20
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743740
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743739509907
+Final Score:   70.743739509907
+Improvement:   0.000000000000 (0.00%)
+Total Time:    24.6s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1100_r20_i13.csv
+---
+
+[Время: 2026-01-14 23:35:00.197021] [Прошло: 0:03:48.375996]
+Итерация 14 - Параметры: n=1200, r=20
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743740
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743740184828
+Final Score:   70.743740184828
+Improvement:   0.000000000000 (0.00%)
+Total Time:    27.1s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1200_r20_i14.csv
+---
+
+[Время: 2026-01-14 23:35:31.281118] [Прошло: 0:04:19.460093]
+Итерация 15 - Параметры: n=1300, r=20
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743740
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+[1] n=128: 0.343859312333 -> 0.343859020129 (0.0001% better) 🏆
+
+========================================
+Optimization Complete
+Initial Score: 70.743739595233
+Final Score:   70.743739303029
+Improvement:   0.000000292204 (0.00%)
+Total Time:    28.9s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1300_r20_i15.csv
+---
+
+[Время: 2026-01-14 23:36:04.034060] [Прошло: 0:04:52.213035]
+Итерация 16 - Параметры: n=1400, r=20
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743739303029
+Final Score:   70.743739303029
+Improvement:   0.000000000000 (0.00%)
+Total Time:    21.2s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1400_r20_i16.csv
+---
+
+[Время: 2026-01-14 23:36:27.833809] [Прошло: 0:05:16.012784]
+Итерация 17 - Параметры: n=1500, r=20
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743739303029
+Final Score:   70.743739303029
+Improvement:   0.000000000000 (0.00%)
+Total Time:    18.5s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1500_r20_i17.csv
+---
+
+[Время: 2026-01-14 23:36:50.241493] [Прошло: 0:05:38.420468]
+Итерация 18 - Параметры: n=1600, r=20
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743739303029
+Final Score:   70.743739303029
+Improvement:   0.000000000000 (0.00%)
+Total Time:    30.2s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1600_r20_i18.csv
+---
+
+[Время: 2026-01-14 23:37:24.343683] [Прошло: 0:06:12.522658]
+Итерация 19 - Параметры: n=1700, r=20
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743739303029
+Final Score:   70.743739303029
+Improvement:   0.000000000000 (0.00%)
+Total Time:    30.8s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1700_r20_i19.csv
+---
+
+[Время: 2026-01-14 23:37:57.787038] [Прошло: 0:06:45.966013]
+Итерация 20 - Параметры: n=1800, r=20
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743739303029
+Final Score:   70.743739303029
+Improvement:   0.000000000000 (0.00%)
+Total Time:    23.5s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1800_r20_i20.csv
+---
+
+[Время: 2026-01-14 23:38:23.832132] [Прошло: 0:07:12.011107]
+Итерация 21 - Параметры: n=1900, r=20
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743739303029
+Final Score:   70.743739303029
+Improvement:   0.000000000000 (0.00%)
+Total Time:    20.1s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1900_r20_i21.csv
+---
+
+[Время: 2026-01-14 23:38:46.449019] [Прошло: 0:07:34.627994]
+Итерация 22 - Параметры: n=2000, r=20
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743739303029
+Final Score:   70.743739303029
+Improvement:   0.000000000000 (0.00%)
+Total Time:    20.7s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n2000_r20_i22.csv
+---
+
+[Время: 2026-01-14 23:39:09.821722] [Прошло: 0:07:58.000697]
+Итерация 23 - Параметры: n=1000, r=30
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743740
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743740131361
+Final Score:   70.743740131361
+Improvement:   0.000000000000 (0.00%)
+Total Time:    39.9s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1000_r30_i23.csv
+---
+
+[Время: 2026-01-14 23:39:52.439425] [Прошло: 0:08:40.618400]
+Итерация 24 - Параметры: n=1100, r=30
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743740
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+[13] n=128: 0.343859312333 -> 0.343859020129 (0.0001% better) 🏆
+
+========================================
+Optimization Complete
+Initial Score: 70.743739541767
+Final Score:   70.743739249563
+Improvement:   0.000000292204 (0.00%)
+Total Time:    33.3s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1100_r30_i24.csv
+---
+
+[Время: 2026-01-14 23:40:29.673182] [Прошло: 0:09:17.852157]
+Итерация 25 - Параметры: n=1200, r=30
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+[1] n=155: 0.332080048642 -> 0.332080045128 (0.0000% better) 🏆
+
+========================================
+Optimization Complete
+Initial Score: 70.743739249563
+Final Score:   70.743739246049
+Improvement:   0.000000003514 (0.00%)
+Total Time:    40.3s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1200_r30_i25.csv
+---
+
+[Время: 2026-01-14 23:41:12.526163] [Прошло: 0:10:00.705138]
+Итерация 26 - Параметры: n=1300, r=30
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743739246049
+Final Score:   70.743739246049
+Improvement:   0.000000000000 (0.00%)
+Total Time:    29.5s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1300_r30_i26.csv
+---
+
+[Время: 2026-01-14 23:41:44.625686] [Прошло: 0:10:32.804661]
+Итерация 27 - Параметры: n=1400, r=30
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743739246049
+Final Score:   70.743739246049
+Improvement:   0.000000000000 (0.00%)
+Total Time:    30.5s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1400_r30_i27.csv
+---
+
+[Время: 2026-01-14 23:42:17.672929] [Прошло: 0:11:05.851904]
+Итерация 28 - Параметры: n=1500, r=30
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743739246049
+Final Score:   70.743739246049
+Improvement:   0.000000000000 (0.00%)
+Total Time:    44.7s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1500_r30_i28.csv
+---
+
+[Время: 2026-01-14 23:43:06.297540] [Прошло: 0:11:54.476515]
+Итерация 29 - Параметры: n=1600, r=30
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+[2] n=106: 0.341409489575 -> 0.341409439460 (0.0000% better) 🏆
+
+========================================
+Optimization Complete
+Initial Score: 70.743739246049
+Final Score:   70.743739195934
+Improvement:   0.000000050115 (0.00%)
+Total Time:    33.1s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1600_r30_i29.csv
+---
+
+[Время: 2026-01-14 23:43:42.029474] [Прошло: 0:12:30.208449]
+Итерация 30 - Параметры: n=1700, r=30
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743739195934
+Final Score:   70.743739195934
+Improvement:   0.000000000000 (0.00%)
+Total Time:    30.0s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1700_r30_i30.csv
+---
+
+[Время: 2026-01-14 23:44:15.679871] [Прошло: 0:13:03.858846]
+Итерация 31 - Параметры: n=1800, r=30
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743739195934
+Final Score:   70.743739195934
+Improvement:   0.000000000000 (0.00%)
+Total Time:    39.1s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1800_r30_i31.csv
+---
+
+[Время: 2026-01-14 23:44:57.344200] [Прошло: 0:13:45.523175]
+Итерация 32 - Параметры: n=1900, r=30
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743739195934
+Final Score:   70.743739195934
+Improvement:   0.000000000000 (0.00%)
+Total Time:    36.8s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1900_r30_i32.csv
+---
+
+[Время: 2026-01-14 23:45:38.314898] [Прошло: 0:14:26.493873]
+Итерация 33 - Параметры: n=2000, r=30
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743739195934
+Final Score:   70.743739195934
+Improvement:   0.000000000000 (0.00%)
+Total Time:    44.9s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n2000_r30_i33.csv
+---
+
+[Время: 2026-01-14 23:46:27.335673] [Прошло: 0:15:15.514648]
+Итерация 34 - Параметры: n=1000, r=40
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743739195934
+Final Score:   70.743739195934
+Improvement:   0.000000000000 (0.00%)
+Total Time:    45.0s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1000_r40_i34.csv
+---
+
+[Время: 2026-01-14 23:47:14.913331] [Прошло: 0:16:03.092306]
+Итерация 35 - Параметры: n=1100, r=40
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743739195934
+Final Score:   70.743739195934
+Improvement:   0.000000000000 (0.00%)
+Total Time:    35.9s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1100_r40_i35.csv
+---
+
+[Время: 2026-01-14 23:47:54.521162] [Прошло: 0:16:42.700137]
+Итерация 36 - Параметры: n=1200, r=40
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743739195934
+Final Score:   70.743739195934
+Improvement:   0.000000000000 (0.00%)
+Total Time:    57.2s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1200_r40_i36.csv
+---
+
+[Время: 2026-01-14 23:48:55.594075] [Прошло: 0:17:43.773050]
+Итерация 37 - Параметры: n=1300, r=40
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+[2] n=106: 0.341409439460 -> 0.341409395502 (0.0000% better) 🏆
+
+========================================
+Optimization Complete
+Initial Score: 70.743739195934
+Final Score:   70.743739151976
+Improvement:   0.000000043958 (0.00%)
+Total Time:    44.7s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1300_r40_i37.csv
+---
+
+[Время: 2026-01-14 23:49:42.933786] [Прошло: 0:18:31.112761]
+Итерация 38 - Параметры: n=1400, r=40
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743739151976
+Final Score:   70.743739151976
+Improvement:   0.000000000000 (0.00%)
+Total Time:    38.3s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1400_r40_i38.csv
+---
+
+[Время: 2026-01-14 23:50:23.787941] [Прошло: 0:19:11.966916]
+Итерация 39 - Параметры: n=1500, r=40
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+[11] n=106: 0.341409395502 -> 0.341409318461 (0.0000% better) 🏆
+
+========================================
+Optimization Complete
+Initial Score: 70.743739151976
+Final Score:   70.743739074935
+Improvement:   0.000000077040 (0.00%)
+Total Time:    49.9s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1500_r40_i39.csv
+---
+
+[Время: 2026-01-14 23:51:17.523874] [Прошло: 0:20:05.702849]
+Итерация 40 - Параметры: n=1600, r=40
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743739074935
+Final Score:   70.743739074935
+Improvement:   0.000000000000 (0.00%)
+Total Time:    43.7s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1600_r40_i40.csv
+---
+
+[Время: 2026-01-14 23:52:03.822038] [Прошло: 0:20:52.001013]
+Итерация 41 - Параметры: n=1700, r=40
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743739074935
+Final Score:   70.743739074935
+Improvement:   0.000000000000 (0.00%)
+Total Time:    54.0s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1700_r40_i41.csv
+---
+
+[Время: 2026-01-14 23:53:01.626162] [Прошло: 0:21:49.805137]
+Итерация 42 - Параметры: n=1800, r=40
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743739074935
+Final Score:   70.743739074935
+Improvement:   0.000000000000 (0.00%)
+Total Time:    42.9s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1800_r40_i42.csv
+---
+
+[Время: 2026-01-14 23:53:47.170076] [Прошло: 0:22:35.349051]
+Итерация 43 - Параметры: n=1900, r=40
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743739074935
+Final Score:   70.743739074935
+Improvement:   0.000000000000 (0.00%)
+Total Time:    44.9s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1900_r40_i43.csv
+---
+
+[Время: 2026-01-14 23:54:36.015230] [Прошло: 0:23:24.194205]
+Итерация 44 - Параметры: n=2000, r=40
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743739074935
+Final Score:   70.743739074935
+Improvement:   0.000000000000 (0.00%)
+Total Time:    43.7s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n2000_r40_i44.csv
+---
+
+[Время: 2026-01-14 23:55:23.761149] [Прошло: 0:24:11.940124]
+Итерация 45 - Параметры: n=1000, r=50
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743739074935
+Final Score:   70.743739074935
+Improvement:   0.000000000000 (0.00%)
+Total Time:    74.3s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1000_r50_i45.csv
+---
+
+[Время: 2026-01-14 23:56:40.666223] [Прошло: 0:25:28.845198]
+Итерация 46 - Параметры: n=1100, r=50
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743739074935
+Final Score:   70.743739074935
+Improvement:   0.000000000000 (0.00%)
+Total Time:    42.7s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1100_r50_i46.csv
+---
+
+[Время: 2026-01-14 23:57:27.157294] [Прошло: 0:26:15.336269]
+Итерация 47 - Параметры: n=1200, r=50
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743739074935
+Final Score:   70.743739074935
+Improvement:   0.000000000000 (0.00%)
+Total Time:    62.5s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1200_r50_i47.csv
+---
+
+[Время: 2026-01-14 23:58:32.199604] [Прошло: 0:27:20.378579]
+Итерация 48 - Параметры: n=1300, r=50
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743739074935
+Final Score:   70.743739074935
+Improvement:   0.000000000000 (0.00%)
+Total Time:    61.1s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1300_r50_i48.csv
+---
+
+[Время: 2026-01-14 23:59:35.813391] [Прошло: 0:28:23.992366]
+Итерация 49 - Параметры: n=1400, r=50
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743739074935
+Final Score:   70.743739074935
+Improvement:   0.000000000000 (0.00%)
+Total Time:    62.5s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1400_r50_i49.csv
+---
+
+[Время: 2026-01-15 00:00:40.925344] [Прошло: 0:29:29.104319]
+Итерация 50 - Параметры: n=1500, r=50
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743739074935
+Final Score:   70.743739074935
+Improvement:   0.000000000000 (0.00%)
+Total Time:    54.7s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1500_r50_i50.csv
+---
+
+[Время: 2026-01-15 00:01:39.225878] [Прошло: 0:30:27.404853]
+Итерация 51 - Параметры: n=1600, r=50
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743739074935
+Final Score:   70.743739074935
+Improvement:   0.000000000000 (0.00%)
+Total Time:    50.2s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1600_r50_i51.csv
+---
+
+[Время: 2026-01-15 00:02:33.447395] [Прошло: 0:31:21.626370]
+Итерация 52 - Параметры: n=1700, r=50
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743739074935
+Final Score:   70.743739074935
+Improvement:   0.000000000000 (0.00%)
+Total Time:    69.5s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1700_r50_i52.csv
+---
+
+[Время: 2026-01-15 00:03:45.628230] [Прошло: 0:32:33.807205]
+Итерация 53 - Параметры: n=1800, r=50
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743739074935
+Final Score:   70.743739074935
+Improvement:   0.000000000000 (0.00%)
+Total Time:    52.2s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1800_r50_i53.csv
+---
+
+[Время: 2026-01-15 00:04:40.342215] [Прошло: 0:33:28.521190]
+Итерация 54 - Параметры: n=1900, r=50
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743739074935
+Final Score:   70.743739074935
+Improvement:   0.000000000000 (0.00%)
+Total Time:    72.8s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1900_r50_i54.csv
+---
+
+[Время: 2026-01-15 00:05:57.159987] [Прошло: 0:34:45.338962]
+Итерация 55 - Параметры: n=2000, r=50
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743739074935
+Final Score:   70.743739074935
+Improvement:   0.000000000000 (0.00%)
+Total Time:    60.0s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n2000_r50_i55.csv
+---
+
+[Время: 2026-01-15 00:06:59.764847] [Прошло: 0:35:47.943822]
+Итерация 56 - Параметры: n=1000, r=60
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743739074935
+Final Score:   70.743739074935
+Improvement:   0.000000000000 (0.00%)
+Total Time:    57.4s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1000_r60_i56.csv
+---
+
+[Время: 2026-01-15 00:08:01.163298] [Прошло: 0:36:49.342273]
+Итерация 57 - Параметры: n=1100, r=60
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743739074935
+Final Score:   70.743739074935
+Improvement:   0.000000000000 (0.00%)
+Total Time:    80.1s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1100_r60_i57.csv
+---
+
+[Время: 2026-01-15 00:09:23.900447] [Прошло: 0:38:12.079422]
+Итерация 58 - Параметры: n=1200, r=60
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743739074935
+Final Score:   70.743739074935
+Improvement:   0.000000000000 (0.00%)
+Total Time:    55.0s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1200_r60_i58.csv
+---
+
+[Время: 2026-01-15 00:10:22.593998] [Прошло: 0:39:10.772973]
+Итерация 59 - Параметры: n=1300, r=60
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743739074935
+Final Score:   70.743739074935
+Improvement:   0.000000000000 (0.00%)
+Total Time:    80.7s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1300_r60_i59.csv
+---
+
+[Время: 2026-01-15 00:11:45.896743] [Прошло: 0:40:34.075718]
+Итерация 60 - Параметры: n=1400, r=60
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743739074935
+Final Score:   70.743739074935
+Improvement:   0.000000000000 (0.00%)
+Total Time:    57.5s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1400_r60_i60.csv
+---
+
+[Время: 2026-01-15 00:12:45.953081] [Прошло: 0:41:34.132056]
+Итерация 61 - Параметры: n=1500, r=60
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743739074935
+Final Score:   70.743739074935
+Improvement:   0.000000000000 (0.00%)
+Total Time:    71.2s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1500_r60_i61.csv
+---
+
+[Время: 2026-01-15 00:14:00.710063] [Прошло: 0:42:48.889038]
+Итерация 62 - Параметры: n=1600, r=60
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743740
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743740040607
+Final Score:   70.743740040607
+Improvement:   0.000000000000 (0.00%)
+Total Time:    74.5s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1600_r60_i62.csv
+---
+
+[Время: 2026-01-15 00:15:19.106627] [Прошло: 0:44:07.285602]
+Итерация 63 - Параметры: n=1700, r=60
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+[12] n=128: 0.343859312333 -> 0.343859020129 (0.0001% better) 🏆
+
+========================================
+Optimization Complete
+Initial Score: 70.743739451012
+Final Score:   70.743739158808
+Improvement:   0.000000292204 (0.00%)
+Total Time:    80.2s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1700_r60_i63.csv
+---
+
+[Время: 2026-01-15 00:16:41.810253] [Прошло: 0:45:29.989228]
+Итерация 64 - Параметры: n=1800, r=60
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743739158808
+Final Score:   70.743739158808
+Improvement:   0.000000000000 (0.00%)
+Total Time:    67.6s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1800_r60_i64.csv
+---
+
+[Время: 2026-01-15 00:17:53.581754] [Прошло: 0:46:41.760729]
+Итерация 65 - Параметры: n=1900, r=60
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743739158808
+Final Score:   70.743739158808
+Improvement:   0.000000000000 (0.00%)
+Total Time:    70.6s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1900_r60_i65.csv
+---
+
+[Время: 2026-01-15 00:19:08.019207] [Прошло: 0:47:56.198182]
+Итерация 66 - Параметры: n=2000, r=60
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743739158808
+Final Score:   70.743739158808
+Improvement:   0.000000000000 (0.00%)
+Total Time:    83.4s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n2000_r60_i66.csv
+---
+
+[Время: 2026-01-15 00:20:34.019209] [Прошло: 0:49:22.198184]
+Итерация 67 - Параметры: n=1000, r=70
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+[7] n=106: 0.341409398845 -> 0.341409256784 (0.0000% better) 🏆
+
+========================================
+Optimization Complete
+Initial Score: 70.743739158808
+Final Score:   70.743739016747
+Improvement:   0.000000142061 (0.00%)
+Total Time:    67.5s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1000_r70_i67.csv
+---
+
+[Время: 2026-01-15 00:21:45.358427] [Прошло: 0:50:33.537402]
+Итерация 68 - Параметры: n=1100, r=70
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743739016747
+Final Score:   70.743739016747
+Improvement:   0.000000000000 (0.00%)
+Total Time:    91.8s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1100_r70_i68.csv
+---
+
+[Время: 2026-01-15 00:23:19.698731] [Прошло: 0:52:07.877706]
+Итерация 69 - Параметры: n=1200, r=70
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743739016747
+Final Score:   70.743739016747
+Improvement:   0.000000000000 (0.00%)
+Total Time:    63.3s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1200_r70_i69.csv
+---
+
+[Время: 2026-01-15 00:24:27.326064] [Прошло: 0:53:15.505039]
+Итерация 70 - Параметры: n=1300, r=70
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+[1] n=155: 0.332080048642 -> 0.332080041414 (0.0000% better) 🏆
+
+========================================
+Optimization Complete
+Initial Score: 70.743739016747
+Final Score:   70.743739009520
+Improvement:   0.000000007227 (0.00%)
+Total Time:    84.9s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1300_r70_i70.csv
+---
+
+[Время: 2026-01-15 00:25:54.803946] [Прошло: 0:54:42.982921]
+Итерация 71 - Параметры: n=1400, r=70
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743739009520
+Final Score:   70.743739009520
+Improvement:   0.000000000000 (0.00%)
+Total Time:    69.4s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1400_r70_i71.csv
+---
+
+[Время: 2026-01-15 00:27:07.964944] [Прошло: 0:55:56.143919]
+Итерация 72 - Параметры: n=1500, r=70
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743739009520
+Final Score:   70.743739009520
+Improvement:   0.000000000000 (0.00%)
+Total Time:    77.2s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1500_r70_i72.csv
+---
+
+[Время: 2026-01-15 00:28:27.731751] [Прошло: 0:57:15.910726]
+Итерация 73 - Параметры: n=1600, r=70
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743739009520
+Final Score:   70.743739009520
+Improvement:   0.000000000000 (0.00%)
+Total Time:    80.4s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1600_r70_i73.csv
+---
+
+[Время: 2026-01-15 00:29:52.417330] [Прошло: 0:58:40.596305]
+Итерация 74 - Параметры: n=1700, r=70
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743739009520
+Final Score:   70.743739009520
+Improvement:   0.000000000000 (0.00%)
+Total Time:    81.5s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1700_r70_i74.csv
+---
+
+[Время: 2026-01-15 00:31:17.922299] [Прошло: 1:00:06.101274]
+Итерация 75 - Параметры: n=1800, r=70
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743739009520
+Final Score:   70.743739009520
+Improvement:   0.000000000000 (0.00%)
+Total Time:    78.1s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1800_r70_i75.csv
+---
+
+[Время: 2026-01-15 00:32:40.065109] [Прошло: 1:01:28.244084]
+Итерация 76 - Параметры: n=1900, r=70
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743739009520
+Final Score:   70.743739009520
+Improvement:   0.000000000000 (0.00%)
+Total Time:    93.7s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1900_r70_i76.csv
+---
+
+[Время: 2026-01-15 00:34:16.330998] [Прошло: 1:03:04.509973]
+Итерация 77 - Параметры: n=2000, r=70
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743739009520
+Final Score:   70.743739009520
+Improvement:   0.000000000000 (0.00%)
+Total Time:    73.4s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n2000_r70_i77.csv
+---
+
+[Время: 2026-01-15 00:35:33.558882] [Прошло: 1:04:21.737857]
+Итерация 78 - Параметры: n=1000, r=80
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743739009520
+Final Score:   70.743739009520
+Improvement:   0.000000000000 (0.00%)
+Total Time:    89.6s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1000_r80_i78.csv
+---
+
+[Время: 2026-01-15 00:37:05.680326] [Прошло: 1:05:53.859301]
+Итерация 79 - Параметры: n=1100, r=80
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+[12] n=155: 0.332080041414 -> 0.332079894068 (0.0000% better) 🏆
+
+========================================
+Optimization Complete
+Initial Score: 70.743739009520
+Final Score:   70.743738862173
+Improvement:   0.000000147347 (0.00%)
+Total Time:    97.5s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1100_r80_i79.csv
+---
+
+[Время: 2026-01-15 00:38:45.782360] [Прошло: 1:07:33.961335]
+Итерация 80 - Параметры: n=1200, r=80
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743738862173
+Final Score:   70.743738862173
+Improvement:   0.000000000000 (0.00%)
+Total Time:    78.3s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1200_r80_i80.csv
+---
+
+[Время: 2026-01-15 00:40:06.726163] [Прошло: 1:08:54.905138]
+Итерация 81 - Параметры: n=1300, r=80
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743738862173
+Final Score:   70.743738862173
+Improvement:   0.000000000000 (0.00%)
+Total Time:    98.9s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1300_r80_i81.csv
+---
+
+[Время: 2026-01-15 00:41:48.165837] [Прошло: 1:10:36.344812]
+Итерация 82 - Параметры: n=1400, r=80
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743738862173
+Final Score:   70.743738862173
+Improvement:   0.000000000000 (0.00%)
+Total Time:    81.6s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1400_r80_i82.csv
+---
+
+[Время: 2026-01-15 00:43:13.557056] [Прошло: 1:12:01.736031]
+Итерация 83 - Параметры: n=1500, r=80
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743738862173
+Final Score:   70.743738862173
+Improvement:   0.000000000000 (0.00%)
+Total Time:    90.6s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1500_r80_i83.csv
+---
+
+[Время: 2026-01-15 00:44:46.718019] [Прошло: 1:13:34.896994]
+Итерация 84 - Параметры: n=1600, r=80
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743738862173
+Final Score:   70.743738862173
+Improvement:   0.000000000000 (0.00%)
+Total Time:    99.2s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1600_r80_i84.csv
+---
+
+[Время: 2026-01-15 00:46:29.779009] [Прошло: 1:15:17.957984]
+Итерация 85 - Параметры: n=1700, r=80
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+[6] n=106: 0.341409256784 -> 0.341409109075 (0.0000% better) 🏆
+
+========================================
+Optimization Complete
+Initial Score: 70.743738862173
+Final Score:   70.743738714464
+Improvement:   0.000000147709 (0.00%)
+Total Time:    86.0s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1700_r80_i85.csv
+---
+
+[Время: 2026-01-15 00:47:58.369988] [Прошло: 1:16:46.548963]
+Итерация 86 - Параметры: n=1800, r=80
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743738714464
+Final Score:   70.743738714464
+Improvement:   0.000000000000 (0.00%)
+Total Time:    98.2s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1800_r80_i86.csv
+---
+
+[Время: 2026-01-15 00:49:39.144700] [Прошло: 1:18:27.323675]
+Итерация 87 - Параметры: n=1900, r=80
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743738714464
+Final Score:   70.743738714464
+Improvement:   0.000000000000 (0.00%)
+Total Time:    94.0s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1900_r80_i87.csv
+---
+
+[Время: 2026-01-15 00:51:15.663130] [Прошло: 1:20:03.842105]
+Итерация 88 - Параметры: n=2000, r=80
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+[0] n=106: 0.341409109075 -> 0.341408850024 (0.0001% better) 🏆
+
+========================================
+Optimization Complete
+Initial Score: 70.743738714464
+Final Score:   70.743738455414
+Improvement:   0.000000259050 (0.00%)
+Total Time:    105.6s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n2000_r80_i88.csv
+---
+
+[Время: 2026-01-15 00:53:04.879992] [Прошло: 1:21:53.058967]
+Итерация 89 - Параметры: n=1000, r=90
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743738
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+[12] n=106: 0.341408850024 -> 0.341408822232 (0.0000% better) 🏆
+
+========================================
+Optimization Complete
+Initial Score: 70.743738455414
+Final Score:   70.743738427621
+Improvement:   0.000000027792 (0.00%)
+Total Time:    90.9s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1000_r90_i89.csv
+---
+
+[Время: 2026-01-15 00:54:38.350653] [Прошло: 1:23:26.529628]
+Итерация 90 - Параметры: n=1100, r=90
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743738
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+[5] n=106: 0.341408822232 -> 0.341408731535 (0.0000% better) 🏆
+
+========================================
+Optimization Complete
+Initial Score: 70.743738427621
+Final Score:   70.743738336925
+Improvement:   0.000000090696 (0.00%)
+Total Time:    108.9s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1100_r90_i90.csv
+---
+
+[Время: 2026-01-15 00:56:31.449488] [Прошло: 1:25:19.628463]
+Итерация 91 - Параметры: n=1200, r=90
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743738
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743738336925
+Final Score:   70.743738336925
+Improvement:   0.000000000000 (0.00%)
+Total Time:    97.4s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1200_r90_i91.csv
+---
+
+[Время: 2026-01-15 00:58:12.685053] [Прошло: 1:27:00.864028]
+Итерация 92 - Параметры: n=1300, r=90
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743738
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743738336925
+Final Score:   70.743738336925
+Improvement:   0.000000000000 (0.00%)
+Total Time:    114.7s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1300_r90_i92.csv
+---
+
+[Время: 2026-01-15 01:00:10.960839] [Прошло: 1:28:59.139814]
+Итерация 93 - Параметры: n=1400, r=90
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743738
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743738336925
+Final Score:   70.743738336925
+Improvement:   0.000000000000 (0.00%)
+Total Time:    87.8s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1400_r90_i93.csv
+---
+
+[Время: 2026-01-15 01:01:42.657658] [Прошло: 1:30:30.836633]
+Итерация 94 - Параметры: n=1500, r=90
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743738
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743738336925
+Final Score:   70.743738336925
+Improvement:   0.000000000000 (0.00%)
+Total Time:    112.1s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1500_r90_i94.csv
+---
+
+[Время: 2026-01-15 01:03:37.323715] [Прошло: 1:32:25.502690]
+Итерация 95 - Параметры: n=1600, r=90
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743738
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743738336925
+Final Score:   70.743738336925
+Improvement:   0.000000000000 (0.00%)
+Total Time:    97.6s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1600_r90_i95.csv
+---
+
+[Время: 2026-01-15 01:05:18.778056] [Прошло: 1:34:06.957031]
+Итерация 96 - Параметры: n=1700, r=90
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743738
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743738336925
+Final Score:   70.743738336925
+Improvement:   0.000000000000 (0.00%)
+Total Time:    102.6s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1700_r90_i96.csv
+---
+
+[Время: 2026-01-15 01:07:05.253368] [Прошло: 1:35:53.432343]
+Итерация 97 - Параметры: n=1800, r=90
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743738
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743738336925
+Final Score:   70.743738336925
+Improvement:   0.000000000000 (0.00%)
+Total Time:    124.8s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1800_r90_i97.csv
+---
+
+[Время: 2026-01-15 01:09:12.665195] [Прошло: 1:38:00.844170]
+Итерация 98 - Параметры: n=1900, r=90
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743738
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743738336925
+Final Score:   70.743738336925
+Improvement:   0.000000000000 (0.00%)
+Total Time:    103.9s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1900_r90_i98.csv
+---
+
+[Время: 2026-01-15 01:10:59.697919] [Прошло: 1:39:47.876894]
+Итерация 99 - Параметры: n=2000, r=90
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743738
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743738336925
+Final Score:   70.743738336925
+Improvement:   0.000000000000 (0.00%)
+Total Time:    101.0s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n2000_r90_i99.csv
+---
+
+==================================================
+✅ ВСЕ ЭКСПЕРИМЕНТЫ ЗАВЕРШЕНЫ!
+Начало: 2026-01-14 23:31:11.821025
+Завершение: 2026-01-15 01:12:45.185824
+Общее время: 1:41:33.364799
+Выполнено запусков: 99 из 99
+Начальная метрика: 70.743740391705
+Финальная метрика: 70.743738336925
+Прирост метрики:   0.000002054780
+==================================================
+
+==================================================
+Начало: 2026-01-15 01:15:33.341955
+Таймаут: 7.7 часов
+==================================================
+
+[Время: 2026-01-15 01:15:35.924785] [Прошло: 0:00:02.582830]
+Итерация 1 - Параметры: n=1000, r=10
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+[4] n=128: 0.343859312333 -> 0.343859020129 (0.0001% better) 🏆
+
+========================================
+Optimization Complete
+Initial Score: 70.743739451012
+Final Score:   70.743739158808
+Improvement:   0.000000292204 (0.00%)
+Total Time:    10.4s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1000_r10_i1.csv
+---
+
+[Время: 2026-01-15 01:15:49.081312] [Прошло: 0:00:15.739357]
+Итерация 2 - Параметры: n=1100, r=10
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743739158808
+Final Score:   70.743739158808
+Improvement:   0.000000000000 (0.00%)
+Total Time:    10.9s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1100_r10_i2.csv
+---
+
+[Время: 2026-01-15 01:16:02.562898] [Прошло: 0:00:29.220943]
+Итерация 3 - Параметры: n=1200, r=10
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743739158808
+Final Score:   70.743739158808
+Improvement:   0.000000000000 (0.00%)
+Total Time:    9.8s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1200_r10_i3.csv
+---
+
+[Время: 2026-01-15 01:16:14.948425] [Прошло: 0:00:41.606470]
+Итерация 4 - Параметры: n=1300, r=10
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743739158808
+Final Score:   70.743739158808
+Improvement:   0.000000000000 (0.00%)
+Total Time:    10.9s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1300_r10_i4.csv
+---
+
+[Время: 2026-01-15 01:16:28.445307] [Прошло: 0:00:55.103352]
+Итерация 5 - Параметры: n=1400, r=10
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743739158808
+Final Score:   70.743739158808
+Improvement:   0.000000000000 (0.00%)
+Total Time:    13.8s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1400_r10_i5.csv
+---
+
+[Время: 2026-01-15 01:16:46.321958] [Прошло: 0:01:12.980003]
+Итерация 6 - Параметры: n=1500, r=10
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743739158808
+Final Score:   70.743739158808
+Improvement:   0.000000000000 (0.00%)
+Total Time:    16.8s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1500_r10_i6.csv
+---
+
+[Время: 2026-01-15 01:17:06.877129] [Прошло: 0:01:33.535174]
+Итерация 7 - Параметры: n=1600, r=10
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743739158808
+Final Score:   70.743739158808
+Improvement:   0.000000000000 (0.00%)
+Total Time:    17.5s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1600_r10_i7.csv
+---
+
+[Время: 2026-01-15 01:17:28.813267] [Прошло: 0:01:55.471312]
+Итерация 8 - Параметры: n=1700, r=10
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+[6] n=106: 0.341409398845 -> 0.341408995245 (0.0001% better) 🏆
+
+========================================
+Optimization Complete
+Initial Score: 70.743739158808
+Final Score:   70.743738755208
+Improvement:   0.000000403600 (0.00%)
+Total Time:    15.8s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1700_r10_i8.csv
+---
+
+[Время: 2026-01-15 01:17:48.277795] [Прошло: 0:02:14.935840]
+Итерация 9 - Параметры: n=1800, r=10
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743738755208
+Final Score:   70.743738755208
+Improvement:   0.000000000000 (0.00%)
+Total Time:    14.7s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1800_r10_i9.csv
+---
+
+[Время: 2026-01-15 01:18:05.792932] [Прошло: 0:02:32.450977]
+Итерация 10 - Параметры: n=1900, r=10
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743738755208
+Final Score:   70.743738755208
+Improvement:   0.000000000000 (0.00%)
+Total Time:    12.9s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1900_r10_i10.csv
+---
+
+[Время: 2026-01-15 01:18:21.316311] [Прошло: 0:02:47.974356]
+Итерация 11 - Параметры: n=2000, r=10
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743738755208
+Final Score:   70.743738755208
+Improvement:   0.000000000000 (0.00%)
+Total Time:    12.9s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n2000_r10_i11.csv
+---
+
+[Время: 2026-01-15 01:18:36.766454] [Прошло: 0:03:03.424499]
+Итерация 12 - Параметры: n=1000, r=20
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743738755208
+Final Score:   70.743738755208
+Improvement:   0.000000000000 (0.00%)
+Total Time:    19.5s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1000_r20_i12.csv
+---
+
+[Время: 2026-01-15 01:18:59.673771] [Прошло: 0:03:26.331816]
+Итерация 13 - Параметры: n=1100, r=20
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743738755208
+Final Score:   70.743738755208
+Improvement:   0.000000000000 (0.00%)
+Total Time:    29.6s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1100_r20_i13.csv
+---
+
+[Время: 2026-01-15 01:19:31.889538] [Прошло: 0:03:58.547583]
+Итерация 14 - Параметры: n=1200, r=20
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+[1] n=155: 0.332080048642 -> 0.332080045128 (0.0000% better) 🏆
+
+========================================
+Optimization Complete
+Initial Score: 70.743738755208
+Final Score:   70.743738751694
+Improvement:   0.000000003514 (0.00%)
+Total Time:    22.0s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1200_r20_i14.csv
+---
+
+[Время: 2026-01-15 01:19:57.763484] [Прошло: 0:04:24.421529]
+Итерация 15 - Параметры: n=1300, r=20
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743738751694
+Final Score:   70.743738751694
+Improvement:   0.000000000000 (0.00%)
+Total Time:    22.1s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1300_r20_i15.csv
+---
+
+[Время: 2026-01-15 01:20:23.749357] [Прошло: 0:04:50.407402]
+Итерация 16 - Параметры: n=1400, r=20
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743738751694
+Final Score:   70.743738751694
+Improvement:   0.000000000000 (0.00%)
+Total Time:    31.1s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1400_r20_i16.csv
+---
+
+[Время: 2026-01-15 01:20:58.599849] [Прошло: 0:05:25.257894]
+Итерация 17 - Параметры: n=1500, r=20
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743738751694
+Final Score:   70.743738751694
+Improvement:   0.000000000000 (0.00%)
+Total Time:    27.5s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1500_r20_i17.csv
+---
+
+[Время: 2026-01-15 01:21:28.923984] [Прошло: 0:05:55.582029]
+Итерация 18 - Параметры: n=1600, r=20
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743738751694
+Final Score:   70.743738751694
+Improvement:   0.000000000000 (0.00%)
+Total Time:    21.3s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1600_r20_i18.csv
+---
+
+[Время: 2026-01-15 01:21:52.744727] [Прошло: 0:06:19.402772]
+Итерация 19 - Параметры: n=1700, r=20
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743738751694
+Final Score:   70.743738751694
+Improvement:   0.000000000000 (0.00%)
+Total Time:    18.8s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1700_r20_i19.csv
+---
+
+[Время: 2026-01-15 01:22:14.013035] [Прошло: 0:06:40.671080]
+Итерация 20 - Параметры: n=1800, r=20
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743738751694
+Final Score:   70.743738751694
+Improvement:   0.000000000000 (0.00%)
+Total Time:    28.1s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1800_r20_i20.csv
+---
+
+[Время: 2026-01-15 01:22:45.985184] [Прошло: 0:07:12.643229]
+Итерация 21 - Параметры: n=1900, r=20
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743738751694
+Final Score:   70.743738751694
+Improvement:   0.000000000000 (0.00%)
+Total Time:    30.4s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1900_r20_i21.csv
+---
+
+[Время: 2026-01-15 01:23:19.864332] [Прошло: 0:07:46.522377]
+Итерация 22 - Параметры: n=2000, r=20
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743738751694
+Final Score:   70.743738751694
+Improvement:   0.000000000000 (0.00%)
+Total Time:    21.9s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n2000_r20_i22.csv
+---
+
+[Время: 2026-01-15 01:23:44.277589] [Прошло: 0:08:10.935634]
+Итерация 23 - Параметры: n=1000, r=30
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743738751694
+Final Score:   70.743738751694
+Improvement:   0.000000000000 (0.00%)
+Total Time:    25.7s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1000_r30_i23.csv
+---
+
+[Время: 2026-01-15 01:24:12.466072] [Прошло: 0:08:39.124117]
+Итерация 24 - Параметры: n=1100, r=30
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743738751694
+Final Score:   70.743738751694
+Improvement:   0.000000000000 (0.00%)
+Total Time:    34.4s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1100_r30_i24.csv
+---
+
+[Время: 2026-01-15 01:24:49.470637] [Прошло: 0:09:16.128682]
+Итерация 25 - Параметры: n=1200, r=30
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743738751694
+Final Score:   70.743738751694
+Improvement:   0.000000000000 (0.00%)
+Total Time:    38.7s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1200_r30_i25.csv
+---
+
+[Время: 2026-01-15 01:25:30.688353] [Прошло: 0:09:57.346398]
+Итерация 26 - Параметры: n=1300, r=30
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743738751694
+Final Score:   70.743738751694
+Improvement:   0.000000000000 (0.00%)
+Total Time:    35.6s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1300_r30_i26.csv
+---
+
+[Время: 2026-01-15 01:26:09.896467] [Прошло: 0:10:36.554512]
+Итерация 27 - Параметры: n=1400, r=30
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743738751694
+Final Score:   70.743738751694
+Improvement:   0.000000000000 (0.00%)
+Total Time:    42.1s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1400_r30_i27.csv
+---
+
+[Время: 2026-01-15 01:26:55.230729] [Прошло: 0:11:21.888774]
+Итерация 28 - Параметры: n=1500, r=30
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743738751694
+Final Score:   70.743738751694
+Improvement:   0.000000000000 (0.00%)
+Total Time:    30.8s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1500_r30_i28.csv
+---
+
+[Время: 2026-01-15 01:27:28.584550] [Прошло: 0:11:55.242595]
+Итерация 29 - Параметры: n=1600, r=30
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743738751694
+Final Score:   70.743738751694
+Improvement:   0.000000000000 (0.00%)
+Total Time:    30.9s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1600_r30_i29.csv
+---
+
+[Время: 2026-01-15 01:28:03.696440] [Прошло: 0:12:30.354485]
+Итерация 30 - Параметры: n=1700, r=30
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743738751694
+Final Score:   70.743738751694
+Improvement:   0.000000000000 (0.00%)
+Total Time:    41.4s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1700_r30_i30.csv
+---
+
+[Время: 2026-01-15 01:28:47.718347] [Прошло: 0:13:14.376392]
+Итерация 31 - Параметры: n=1800, r=30
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743738751694
+Final Score:   70.743738751694
+Improvement:   0.000000000000 (0.00%)
+Total Time:    27.5s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1800_r30_i31.csv
+---
+
+[Время: 2026-01-15 01:29:18.452797] [Прошло: 0:13:45.110842]
+Итерация 32 - Параметры: n=1900, r=30
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743738755208
+Final Score:   70.743738755208
+Improvement:   0.000000000000 (0.00%)
+Total Time:    49.4s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1900_r30_i32.csv
+---
+
+[Время: 2026-01-15 01:30:11.770197] [Прошло: 0:14:38.428242]
+Итерация 33 - Параметры: n=2000, r=30
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743738755208
+Final Score:   70.743738755208
+Improvement:   0.000000000000 (0.00%)
+Total Time:    38.7s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n2000_r30_i33.csv
+---
+
+[Время: 2026-01-15 01:30:53.025125] [Прошло: 0:15:19.683170]
+Итерация 34 - Параметры: n=1000, r=40
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743738755208
+Final Score:   70.743738755208
+Improvement:   0.000000000000 (0.00%)
+Total Time:    36.1s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1000_r40_i34.csv
+---
+
+[Время: 2026-01-15 01:31:32.241374] [Прошло: 0:15:58.899419]
+Итерация 35 - Параметры: n=1100, r=40
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743738755208
+Final Score:   70.743738755208
+Improvement:   0.000000000000 (0.00%)
+Total Time:    48.2s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1100_r40_i35.csv
+---
+
+[Время: 2026-01-15 01:32:24.108652] [Прошло: 0:16:50.766697]
+Итерация 36 - Параметры: n=1200, r=40
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743738755208
+Final Score:   70.743738755208
+Improvement:   0.000000000000 (0.00%)
+Total Time:    56.5s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1200_r40_i36.csv
+---
+
+[Время: 2026-01-15 01:33:23.401251] [Прошло: 0:17:50.059296]
+Итерация 37 - Параметры: n=1300, r=40
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743738755208
+Final Score:   70.743738755208
+Improvement:   0.000000000000 (0.00%)
+Total Time:    40.2s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1300_r40_i37.csv
+---
+
+[Время: 2026-01-15 01:34:06.090660] [Прошло: 0:18:32.748705]
+Итерация 38 - Параметры: n=1400, r=40
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743738755208
+Final Score:   70.743738755208
+Improvement:   0.000000000000 (0.00%)
+Total Time:    48.0s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1400_r40_i38.csv
+---
+
+[Время: 2026-01-15 01:34:57.960211] [Прошло: 0:19:24.618256]
+Итерация 39 - Параметры: n=1500, r=40
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743738755208
+Final Score:   70.743738755208
+Improvement:   0.000000000000 (0.00%)
+Total Time:    54.7s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1500_r40_i39.csv
+---
+
+[Время: 2026-01-15 01:35:55.291281] [Прошло: 0:20:21.949326]
+Итерация 40 - Параметры: n=1600, r=40
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743738755208
+Final Score:   70.743738755208
+Improvement:   0.000000000000 (0.00%)
+Total Time:    42.5s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1600_r40_i40.csv
+---
+
+[Время: 2026-01-15 01:36:41.883720] [Прошло: 0:21:08.541765]
+Итерация 41 - Параметры: n=1700, r=40
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743738755208
+Final Score:   70.743738755208
+Improvement:   0.000000000000 (0.00%)
+Total Time:    59.2s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1700_r40_i41.csv
+---
+
+[Время: 2026-01-15 01:37:43.707281] [Прошло: 0:22:10.365326]
+Итерация 42 - Параметры: n=1800, r=40
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743738755208
+Final Score:   70.743738755208
+Improvement:   0.000000000000 (0.00%)
+Total Time:    43.2s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1800_r40_i42.csv
+---
+
+[Время: 2026-01-15 01:38:29.469832] [Прошло: 0:22:56.127877]
+Итерация 43 - Параметры: n=1900, r=40
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743738755208
+Final Score:   70.743738755208
+Improvement:   0.000000000000 (0.00%)
+Total Time:    42.2s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1900_r40_i43.csv
+---
+
+[Время: 2026-01-15 01:39:15.860266] [Прошло: 0:23:42.518311]
+Итерация 44 - Параметры: n=2000, r=40
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743738755208
+Final Score:   70.743738755208
+Improvement:   0.000000000000 (0.00%)
+Total Time:    57.2s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n2000_r40_i44.csv
+---
+
+[Время: 2026-01-15 01:40:15.632163] [Прошло: 0:24:42.290208]
+Итерация 45 - Параметры: n=1000, r=50
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+[4] n=106: 0.341408995245 -> 0.341408973828 (0.0000% better) 🏆
+
+========================================
+Optimization Complete
+Initial Score: 70.743738755208
+Final Score:   70.743738733792
+Improvement:   0.000000021416 (0.00%)
+Total Time:    46.9s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1000_r50_i45.csv
+---
+
+[Время: 2026-01-15 01:41:05.120512] [Прошло: 0:25:31.778557]
+Итерация 46 - Параметры: n=1100, r=50
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743738733792
+Final Score:   70.743738733792
+Improvement:   0.000000000000 (0.00%)
+Total Time:    61.4s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1100_r50_i46.csv
+---
+
+[Время: 2026-01-15 01:42:09.024578] [Прошло: 0:26:35.682623]
+Итерация 47 - Параметры: n=1200, r=50
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743738733792
+Final Score:   70.743738733792
+Improvement:   0.000000000000 (0.00%)
+Total Time:    54.7s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1200_r50_i47.csv
+---
+
+[Время: 2026-01-15 01:43:07.543912] [Прошло: 0:27:34.201957]
+Итерация 48 - Параметры: n=1300, r=50
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743738733792
+Final Score:   70.743738733792
+Improvement:   0.000000000000 (0.00%)
+Total Time:    68.6s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1300_r50_i48.csv
+---
+
+[Время: 2026-01-15 01:44:19.638331] [Прошло: 0:28:46.296376]
+Итерация 49 - Параметры: n=1400, r=50
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743738733792
+Final Score:   70.743738733792
+Improvement:   0.000000000000 (0.00%)
+Total Time:    53.3s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1400_r50_i49.csv
+---
+
+[Время: 2026-01-15 01:45:15.500512] [Прошло: 0:29:42.158557]
+Итерация 50 - Параметры: n=1500, r=50
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743738733792
+Final Score:   70.743738733792
+Improvement:   0.000000000000 (0.00%)
+Total Time:    58.0s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1500_r50_i50.csv
+---
+
+[Время: 2026-01-15 01:46:17.094730] [Прошло: 0:30:43.752775]
+Итерация 51 - Параметры: n=1600, r=50
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743738733792
+Final Score:   70.743738733792
+Improvement:   0.000000000000 (0.00%)
+Total Time:    60.1s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1600_r50_i51.csv
+---
+
+[Время: 2026-01-15 01:47:21.115064] [Прошло: 0:31:47.773109]
+Итерация 52 - Параметры: n=1700, r=50
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743738733792
+Final Score:   70.743738733792
+Improvement:   0.000000000000 (0.00%)
+Total Time:    61.3s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1700_r50_i52.csv
+---
+
+[Время: 2026-01-15 01:48:26.185924] [Прошло: 0:32:52.843969]
+Итерация 53 - Параметры: n=1800, r=50
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743738733792
+Final Score:   70.743738733792
+Improvement:   0.000000000000 (0.00%)
+Total Time:    69.7s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1800_r50_i53.csv
+---
+
+[Время: 2026-01-15 01:49:38.445279] [Прошло: 0:34:05.103324]
+Итерация 54 - Параметры: n=1900, r=50
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743738733792
+Final Score:   70.743738733792
+Improvement:   0.000000000000 (0.00%)
+Total Time:    51.2s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1900_r50_i54.csv
+---
+
+[Время: 2026-01-15 01:50:33.517157] [Прошло: 0:35:00.175202]
+Итерация 55 - Параметры: n=2000, r=50
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743738733792
+Final Score:   70.743738733792
+Improvement:   0.000000000000 (0.00%)
+Total Time:    73.8s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n2000_r50_i55.csv
+---
+
+[Время: 2026-01-15 01:51:49.926990] [Прошло: 0:36:16.585035]
+Итерация 56 - Параметры: n=1000, r=60
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743738733792
+Final Score:   70.743738733792
+Improvement:   0.000000000000 (0.00%)
+Total Time:    58.0s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1000_r60_i56.csv
+---
+
+[Время: 2026-01-15 01:52:51.802899] [Прошло: 0:37:18.460944]
+Итерация 57 - Параметры: n=1100, r=60
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743738733792
+Final Score:   70.743738733792
+Improvement:   0.000000000000 (0.00%)
+Total Time:    76.6s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1100_r60_i57.csv
+---
+
+[Время: 2026-01-15 01:54:11.025851] [Прошло: 0:38:37.683896]
+Итерация 58 - Параметры: n=1200, r=60
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+[11] n=155: 0.332080048642 -> 0.332080045128 (0.0000% better) 🏆
+
+========================================
+Optimization Complete
+Initial Score: 70.743738733792
+Final Score:   70.743738730278
+Improvement:   0.000000003514 (0.00%)
+Total Time:    56.3s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1200_r60_i58.csv
+---
+
+[Время: 2026-01-15 01:55:11.127808] [Прошло: 0:39:37.785853]
+Итерация 59 - Параметры: n=1300, r=60
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743738730278
+Final Score:   70.743738730278
+Improvement:   0.000000000000 (0.00%)
+Total Time:    71.9s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1300_r60_i59.csv
+---
+
+[Время: 2026-01-15 01:56:25.559667] [Прошло: 0:40:52.217712]
+Итерация 60 - Параметры: n=1400, r=60
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743738730278
+Final Score:   70.743738730278
+Improvement:   0.000000000000 (0.00%)
+Total Time:    76.9s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1400_r60_i60.csv
+---
+
+[Время: 2026-01-15 01:57:46.200793] [Прошло: 0:42:12.858838]
+Итерация 61 - Параметры: n=1500, r=60
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743738730278
+Final Score:   70.743738730278
+Improvement:   0.000000000000 (0.00%)
+Total Time:    62.6s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1500_r60_i61.csv
+---
+
+[Время: 2026-01-15 01:58:51.321385] [Прошло: 0:43:17.979430]
+Итерация 62 - Параметры: n=1600, r=60
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743738730278
+Final Score:   70.743738730278
+Improvement:   0.000000000000 (0.00%)
+Total Time:    60.4s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1600_r60_i62.csv
+---
+
+[Время: 2026-01-15 01:59:55.612388] [Прошло: 0:44:22.270433]
+Итерация 63 - Параметры: n=1700, r=60
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743738730278
+Final Score:   70.743738730278
+Improvement:   0.000000000000 (0.00%)
+Total Time:    83.6s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1700_r60_i63.csv
+---
+
+[Время: 2026-01-15 02:01:21.812873] [Прошло: 0:45:48.470918]
+Итерация 64 - Параметры: n=1800, r=60
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743738730278
+Final Score:   70.743738730278
+Improvement:   0.000000000000 (0.00%)
+Total Time:    60.2s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1800_r60_i64.csv
+---
+
+[Время: 2026-01-15 02:02:24.546494] [Прошло: 0:46:51.204539]
+Итерация 65 - Параметры: n=1900, r=60
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743738730278
+Final Score:   70.743738730278
+Improvement:   0.000000000000 (0.00%)
+Total Time:    83.4s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1900_r60_i65.csv
+---
+
+[Время: 2026-01-15 02:03:50.636135] [Прошло: 0:48:17.294180]
+Итерация 66 - Параметры: n=2000, r=60
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743738730278
+Final Score:   70.743738730278
+Improvement:   0.000000000000 (0.00%)
+Total Time:    63.7s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n2000_r60_i66.csv
+---
+
+[Время: 2026-01-15 02:04:58.213630] [Прошло: 0:49:24.871675]
+Итерация 67 - Параметры: n=1000, r=70
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743738730278
+Final Score:   70.743738730278
+Improvement:   0.000000000000 (0.00%)
+Total Time:    81.3s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1000_r70_i67.csv
+---
+
+[Время: 2026-01-15 02:06:22.072832] [Прошло: 0:50:48.730877]
+Итерация 68 - Параметры: n=1100, r=70
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743738730278
+Final Score:   70.743738730278
+Improvement:   0.000000000000 (0.00%)
+Total Time:    80.7s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1100_r70_i68.csv
+---
+
+[Время: 2026-01-15 02:07:46.484942] [Прошло: 0:52:13.142987]
+Итерация 69 - Параметры: n=1200, r=70
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743738730278
+Final Score:   70.743738730278
+Improvement:   0.000000000000 (0.00%)
+Total Time:    95.4s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1200_r70_i69.csv
+---
+
+[Время: 2026-01-15 02:09:25.516355] [Прошло: 0:53:52.174400]
+Итерация 70 - Параметры: n=1300, r=70
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743738730278
+Final Score:   70.743738730278
+Improvement:   0.000000000000 (0.00%)
+Total Time:    91.9s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1300_r70_i70.csv
+---
+
+[Время: 2026-01-15 02:11:00.805257] [Прошло: 0:55:27.463302]
+Итерация 71 - Параметры: n=1400, r=70
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743739
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743738730278
+Final Score:   70.743738730278
+Improvement:   0.000000000000 (0.00%)
+Total Time:    89.3s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1400_r70_i71.csv
+---
+
+[Время: 2026-01-15 02:12:33.210042] [Прошло: 0:56:59.868087]
+Итерация 72 - Параметры: n=1500, r=70
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743741
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+[15] n=176: 0.338213359301 -> 0.338213259894 (0.0000% better) 🏆
+
+========================================
+Optimization Complete
+Initial Score: 70.743740786933
+Final Score:   70.743740687526
+Improvement:   0.000000099406 (0.00%)
+Total Time:    91.3s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1500_r70_i72.csv
+---
+
+[Время: 2026-01-15 02:14:07.815247] [Прошло: 0:58:34.473292]
+Итерация 73 - Параметры: n=1600, r=70
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743741
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+[15] n=176: 0.338213359301 -> 0.338213259894 (0.0000% better) 🏆
+
+========================================
+Optimization Complete
+Initial Score: 70.743740786933
+Final Score:   70.743740687526
+Improvement:   0.000000099406 (0.00%)
+Total Time:    99.9s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1600_r70_i73.csv
+---
+
+[Время: 2026-01-15 02:15:51.077514] [Прошло: 1:00:17.735559]
+Итерация 74 - Параметры: n=1700, r=70
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743741
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+[0] n=176: 0.338213359301 -> 0.338213259894 (0.0000% better) 🏆
+
+========================================
+Optimization Complete
+Initial Score: 70.743740786933
+Final Score:   70.743740687526
+Improvement:   0.000000099406 (0.00%)
+Total Time:    94.0s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1700_r70_i74.csv
+---
+
+[Время: 2026-01-15 02:17:28.733417] [Прошло: 1:01:55.391462]
+Итерация 75 - Параметры: n=1800, r=70
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743741
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743740687526
+Final Score:   70.743740687526
+Improvement:   0.000000000000 (0.00%)
+Total Time:    95.3s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1800_r70_i75.csv
+---
+
+[Время: 2026-01-15 02:19:07.947309] [Прошло: 1:03:34.605354]
+Итерация 76 - Параметры: n=1900, r=70
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743746
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+[12] n=178: 0.334446880547 -> 0.334446794309 (0.0000% better) 🏆
+[12] n=176: 0.338213878366 -> 0.338213679198 (0.0001% better) 🏆
+[15] n= 88: 0.350677477071 -> 0.350677469035 (0.0000% better) 🏆
+
+========================================
+Optimization Complete
+Initial Score: 70.743746340165
+Final Score:   70.743746046723
+Improvement:   0.000000293442 (0.00%)
+Total Time:    103.5s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1900_r70_i76.csv
+---
+
+[Время: 2026-01-15 02:20:55.270073] [Прошло: 1:05:21.928118]
+Итерация 77 - Параметры: n=2000, r=70
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743743
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+[2] n= 87: 0.353850052968 -> 0.353849772768 (0.0001% better) 🏆
+
+========================================
+Optimization Complete
+Initial Score: 70.743743004595
+Final Score:   70.743742724395
+Improvement:   0.000000280200 (0.00%)
+Total Time:    103.9s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n2000_r70_i77.csv
+---
+
+[Время: 2026-01-15 02:22:43.111282] [Прошло: 1:07:09.769327]
+Итерация 78 - Параметры: n=1000, r=80
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743743
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743742724395
+Final Score:   70.743742724395
+Improvement:   0.000000000000 (0.00%)
+Total Time:    100.0s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1000_r80_i78.csv
+---
+
+[Время: 2026-01-15 02:24:26.368825] [Прошло: 1:08:53.026870]
+Итерация 79 - Параметры: n=1100, r=80
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743743
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743742724395
+Final Score:   70.743742724395
+Improvement:   0.000000000000 (0.00%)
+Total Time:    103.7s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1100_r80_i79.csv
+---
+
+[Время: 2026-01-15 02:26:13.912802] [Прошло: 1:10:40.570847]
+Итерация 80 - Параметры: n=1200, r=80
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743743
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+[1] n=176: 0.338213679198 -> 0.338213646464 (0.0000% better) 🏆
+
+========================================
+Optimization Complete
+Initial Score: 70.743742724395
+Final Score:   70.743742691660
+Improvement:   0.000000032734 (0.00%)
+Total Time:    109.6s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1200_r80_i80.csv
+---
+
+[Время: 2026-01-15 02:28:07.283645] [Прошло: 1:12:33.941690]
+Итерация 81 - Параметры: n=1300, r=80
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743743
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+[2] n= 87: 0.353849772768 -> 0.353849418089 (0.0001% better) 🏆
+
+========================================
+Optimization Complete
+Initial Score: 70.743742691660
+Final Score:   70.743742336981
+Improvement:   0.000000354679 (0.00%)
+Total Time:    104.5s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1300_r80_i81.csv
+---
+
+[Время: 2026-01-15 02:29:55.099051] [Прошло: 1:14:21.757096]
+Итерация 82 - Параметры: n=1400, r=80
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743762
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+[12] n=178: 0.334448639820 -> 0.334448246303 (0.0001% better) 🏆
+[12] n=176: 0.338215610800 -> 0.338215597088 (0.0000% better) 🏆
+[14] n=102: 0.347141562763 -> 0.347141511984 (0.0000% better) 🏆
+[0] n=130: 0.338801792802 -> 0.338799945033 (0.0005% better) 🏆
+[0] n=129: 0.341397360536 -> 0.341395781102 (0.0005% better) 🏆
+
+========================================
+Optimization Complete
+Initial Score: 70.743762307161
+Final Score:   70.743758421950
+Improvement:   0.000003885210 (0.00%)
+Total Time:    104.2s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1400_r80_i82.csv
+---
+
+[Время: 2026-01-15 02:31:43.504885] [Прошло: 1:16:10.162930]
+Итерация 83 - Параметры: n=1500, r=80
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743750
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+[11] n=153: 0.336289008062 -> 0.336288800316 (0.0001% better) 🏆
+[11] n=152: 0.338491261891 -> 0.338491016666 (0.0001% better) 🏆
+[5] n=176: 0.338215597088 -> 0.338215482941 (0.0000% better) 🏆
+[12] n= 87: 0.353849759497 -> 0.353849753560 (0.0000% better) 🏆
+
+========================================
+Optimization Complete
+Initial Score: 70.743750136083
+Final Score:   70.743749563029
+Improvement:   0.000000573055 (0.00%)
+Total Time:    115.9s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1500_r80_i83.csv
+---
+
+[Время: 2026-01-15 02:33:43.253564] [Прошло: 1:18:09.911609]
+Итерация 84 - Параметры: n=1600, r=80
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743750
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743749563029
+Final Score:   70.743749563029
+Improvement:   0.000000000000 (0.00%)
+Total Time:    105.1s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1600_r80_i84.csv
+---
+
+[Время: 2026-01-15 02:35:31.574439] [Прошло: 1:19:58.232484]
+Итерация 85 - Параметры: n=1700, r=80
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743803
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+[5] n=153: 0.336296703140 -> 0.336293322406 (0.0010% better) 🏆
+[6] n=130: 0.338812002943 -> 0.338811319484 (0.0002% better) 🏆
+[6] n=129: 0.341402313476 -> 0.341397954445 (0.0013% better) 🏆
+
+========================================
+Optimization Complete
+Initial Score: 70.743802647580
+Final Score:   70.743794224356
+Improvement:   0.000008423224 (0.00%)
+Total Time:    123.6s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1700_r80_i85.csv
+---
+
+[Время: 2026-01-15 02:37:38.788881] [Прошло: 1:22:05.446926]
+Итерация 86 - Параметры: n=1800, r=80
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743749
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+[1] n=152: 0.338491119120 -> 0.338491116047 (0.0000% better) 🏆
+[11] n=154: 0.334158264550 -> 0.334157574659 (0.0002% better) 🏆
+[1] n=150: 0.337067200355 -> 0.337067192676 (0.0000% better) 🏆
+[3] n= 87: 0.353849758522 -> 0.353849755274 (0.0000% better) 🏆
+[14] n=106: 0.341408973828 -> 0.341408968731 (0.0000% better) 🏆
+
+========================================
+Optimization Complete
+Initial Score: 70.743748864571
+Final Score:   70.743748155583
+Improvement:   0.000000708988 (0.00%)
+Total Time:    114.1s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1800_r80_i86.csv
+---
+
+[Время: 2026-01-15 02:39:36.088760] [Прошло: 1:24:02.746805]
+Итерация 87 - Параметры: n=1900, r=80
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743902
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+[14] n=153: 0.336305535916 -> 0.336298091639 (0.0022% better) 🏆
+[4] n=154: 0.334162020004 -> 0.334161028461 (0.0003% better) 🏆
+[13] n=102: 0.347147127488 -> 0.347146863079 (0.0001% better) 🏆
+[9] n=130: 0.338843850262 -> 0.338841116032 (0.0008% better) 🏆
+[9] n=129: 0.341413828056 -> 0.341412318423 (0.0004% better) 🏆
+
+========================================
+Optimization Complete
+Initial Score: 70.743901809732
+Final Score:   70.743888865639
+Improvement:   0.000012944092 (0.00%)
+Total Time:    112.6s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1900_r80_i87.csv
+---
+
+[Время: 2026-01-15 02:41:32.336715] [Прошло: 1:25:58.994760]
+Итерация 88 - Параметры: n=2000, r=80
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743741
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+[3] n=102: 0.347140451888 -> 0.347140166223 (0.0001% better) 🏆
+[8] n=130: 0.338797794436 -> 0.338797791457 (0.0000% better) 🏆
+
+========================================
+Optimization Complete
+Initial Score: 70.743741448254
+Final Score:   70.743741159610
+Improvement:   0.000000288643 (0.00%)
+Total Time:    118.6s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n2000_r80_i88.csv
+---
+
+[Время: 2026-01-15 02:43:34.657012] [Прошло: 1:28:01.315057]
+Итерация 89 - Параметры: n=1000, r=90
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743741
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743741159610
+Final Score:   70.743741159610
+Improvement:   0.000000000000 (0.00%)
+Total Time:    121.7s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1000_r90_i89.csv
+---
+
+[Время: 2026-01-15 02:45:40.112814] [Прошло: 1:30:06.770859]
+Итерация 90 - Параметры: n=1100, r=90
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743741
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743741159610
+Final Score:   70.743741159610
+Improvement:   0.000000000000 (0.00%)
+Total Time:    109.3s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1100_r90_i90.csv
+---
+
+[Время: 2026-01-15 02:47:33.305556] [Прошло: 1:31:59.963601]
+Итерация 91 - Параметры: n=1200, r=90
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743741
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743741159610
+Final Score:   70.743741159610
+Improvement:   0.000000000000 (0.00%)
+Total Time:    116.1s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1200_r90_i91.csv
+---
+
+[Время: 2026-01-15 02:49:33.039529] [Прошло: 1:33:59.697574]
+Итерация 92 - Параметры: n=1300, r=90
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743741
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743741159610
+Final Score:   70.743741159610
+Improvement:   0.000000000000 (0.00%)
+Total Time:    123.7s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1300_r90_i92.csv
+---
+
+[Время: 2026-01-15 02:51:40.102375] [Прошло: 1:36:06.760420]
+Итерация 93 - Параметры: n=1400, r=90
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.744138
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+[13] n=153: 0.336313998433 -> 0.336305976861 (0.0024% better) 🏆
+[13] n=152: 0.338504029819 -> 0.338496682835 (0.0022% better) 🏆
+[14] n=178: 0.334475630951 -> 0.334475594874 (0.0000% better) 🏆
+[14] n=176: 0.338244006839 -> 0.338243924169 (0.0000% better) 🏆
+[7] n=102: 0.347156044311 -> 0.347156021249 (0.0000% better) 🏆
+[5] n= 87: 0.353895705105 -> 0.353889816747 (0.0017% better) 🏆
+[15] n=128: 0.343866942178 -> 0.343862849481 (0.0012% better) 🏆
+
+========================================
+Optimization Complete
+Initial Score: 70.744138188696
+Final Score:   70.744112697277
+Improvement:   0.000025491419 (0.00%)
+Total Time:    119.0s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1400_r90_i93.csv
+---
+
+[Время: 2026-01-15 02:53:42.932323] [Прошло: 1:38:09.590368]
+Итерация 94 - Параметры: n=1500, r=90
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743755
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+[15] n=154: 0.334160586074 -> 0.334159129641 (0.0004% better) 🏆
+[12] n=176: 0.338215035456 -> 0.338213241697 (0.0005% better) 🏆
+[9] n= 71: 0.352239287119 -> 0.352239162197 (0.0000% better) 🏆
+[3] n= 87: 0.353854628363 -> 0.353854619672 (0.0000% better) 🏆
+[14] n=129: 0.341393655424 -> 0.341393651843 (0.0000% better) 🏆
+
+========================================
+Optimization Complete
+Initial Score: 70.743754663897
+Final Score:   70.743751276510
+Improvement:   0.000003387386 (0.00%)
+Total Time:    124.6s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1500_r90_i94.csv
+---
+
+[Время: 2026-01-15 02:55:52.036188] [Прошло: 1:40:18.694233]
+Итерация 95 - Параметры: n=1600, r=90
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743746
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+[0] n= 87: 0.353849758151 -> 0.353849755926 (0.0000% better) 🏆
+
+========================================
+Optimization Complete
+Initial Score: 70.743746414989
+Final Score:   70.743746412764
+Improvement:   0.000000002224 (0.00%)
+Total Time:    123.8s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1600_r90_i95.csv
+---
+
+[Время: 2026-01-15 02:57:58.405517] [Прошло: 1:42:25.063562]
+Итерация 96 - Параметры: n=1700, r=90
+Loading submission.csv...
+Loaded 131 configs (N=1 to N=200).
+Initial Total Score: 187.136032
+
+Starting parallel optimization on 131 configurations.
+Using 16 threads (Max Concurrency).
+
+[9] n=102: 0.347156044311 -> 0.347155727805 (0.0001% better) 🏆
+[4] n= 87: 0.353895705105 -> 0.353889816747 (0.0017% better) 🏆
+[11] n=131: 140.096624768666 -> 2.616456975533 (98.1324% better) 🏆
+[11] n=128: 0.343866942178 -> 0.343862849481 (0.0012% better) 🏆
+
+========================================
+Optimization Complete
+Initial Score: 187.136032282082
+Final Score:   49.655854191389
+Improvement:   137.480178090693 (73.47%)
+Total Time:    159.3s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1700_r90_i96.csv
+---
+
+==================================================
+Начало: 2026-01-15 06:37:16.542737
+Таймаут: 7.7 часов
+==================================================
+
+[Время: 2026-01-15 06:37:19.193021] [Прошло: 0:00:02.650284]
+Итерация 1 - Параметры: n=1000, r=10
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743744
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+[1] n=102: 0.347140375435 -> 0.347140366751 (0.0000% better) 🏆
+[0] n= 71: 0.352239287119 -> 0.352239274741 (0.0000% better) 🏆
+[8] n= 87: 0.353849758388 -> 0.353849755509 (0.0000% better) 🏆
+[4] n=132: 0.333820506679 -> 0.333820501659 (0.0000% better) 🏆
+[4] n=129: 0.341393655424 -> 0.341393651843 (0.0000% better) 🏆
+
+========================================
+Optimization Complete
+Initial Score: 70.743744034527
+Final Score:   70.743744001985
+Improvement:   0.000000032542 (0.00%)
+Total Time:    8.5s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1000_r10_i1.csv
+---
+
+[Время: 2026-01-15 06:37:30.212317] [Прошло: 0:00:13.669580]
+Итерация 2 - Параметры: n=1100, r=10
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743744
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+[5] n=176: 0.338213131708 -> 0.338213130889 (0.0000% better) 🏆
+
+========================================
+Optimization Complete
+Initial Score: 70.743744001985
+Final Score:   70.743744001166
+Improvement:   0.000000000819 (0.00%)
+Total Time:    8.7s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1100_r10_i2.csv
+---
+
+[Время: 2026-01-15 06:37:41.447729] [Прошло: 0:00:24.904992]
+Итерация 3 - Параметры: n=1200, r=10
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743744
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+[7] n=106: 0.341408981200 -> 0.341408963039 (0.0000% better) 🏆
+
+========================================
+Optimization Complete
+Initial Score: 70.743744001166
+Final Score:   70.743743983006
+Improvement:   0.000000018161 (0.00%)
+Total Time:    8.7s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1200_r10_i3.csv
+---
+
+[Время: 2026-01-15 06:37:52.686832] [Прошло: 0:00:36.144095]
+Итерация 4 - Параметры: n=1300, r=10
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743744
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743743983006
+Final Score:   70.743743983006
+Improvement:   0.000000000000 (0.00%)
+Total Time:    8.3s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1300_r10_i4.csv
+---
+
+[Время: 2026-01-15 06:38:03.553099] [Прошло: 0:00:47.010362]
+Итерация 5 - Параметры: n=1400, r=10
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743744
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743743983006
+Final Score:   70.743743983006
+Improvement:   0.000000000000 (0.00%)
+Total Time:    8.3s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1400_r10_i5.csv
+---
+
+[Время: 2026-01-15 06:38:14.355517] [Прошло: 0:00:57.812780]
+Итерация 6 - Параметры: n=1500, r=10
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743744
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743743983006
+Final Score:   70.743743983006
+Improvement:   0.000000000000 (0.00%)
+Total Time:    8.1s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1500_r10_i6.csv
+---
+
+[Время: 2026-01-15 06:38:24.990539] [Прошло: 0:01:08.447802]
+Итерация 7 - Параметры: n=1600, r=10
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743744
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743743983006
+Final Score:   70.743743983006
+Improvement:   0.000000000000 (0.00%)
+Total Time:    8.5s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1600_r10_i7.csv
+---
+
+[Время: 2026-01-15 06:38:36.059542] [Прошло: 0:01:19.516805]
+Итерация 8 - Параметры: n=1700, r=10
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743744
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743743983006
+Final Score:   70.743743983006
+Improvement:   0.000000000000 (0.00%)
+Total Time:    8.3s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1700_r10_i8.csv
+---
+
+[Время: 2026-01-15 06:38:46.911210] [Прошло: 0:01:30.368473]
+Итерация 9 - Параметры: n=1800, r=10
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743744
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743743983006
+Final Score:   70.743743983006
+Improvement:   0.000000000000 (0.00%)
+Total Time:    8.5s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1800_r10_i9.csv
+---
+
+[Время: 2026-01-15 06:38:57.982898] [Прошло: 0:01:41.440161]
+Итерация 10 - Параметры: n=1900, r=10
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743744
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743743983006
+Final Score:   70.743743983006
+Improvement:   0.000000000000 (0.00%)
+Total Time:    8.6s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1900_r10_i10.csv
+---
+
+[Время: 2026-01-15 06:39:09.130473] [Прошло: 0:01:52.587736]
+Итерация 11 - Параметры: n=2000, r=10
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743744
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743743983006
+Final Score:   70.743743983006
+Improvement:   0.000000000000 (0.00%)
+Total Time:    8.9s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n2000_r10_i11.csv
+---
+
+[Время: 2026-01-15 06:39:20.516831] [Прошло: 0:02:03.974094]
+Итерация 12 - Параметры: n=1000, r=20
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743744
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+[0] n= 71: 0.352239274741 -> 0.352238431137 (0.0002% better) 🏆
+
+========================================
+Optimization Complete
+Initial Score: 70.743743983006
+Final Score:   70.743743139401
+Improvement:   0.000000843604 (0.00%)
+Total Time:    14.8s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1000_r20_i12.csv
+---
+
+[Время: 2026-01-15 06:39:37.852045] [Прошло: 0:02:21.309308]
+Итерация 13 - Параметры: n=1100, r=20
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743743
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+[0] n= 71: 0.352238431137 -> 0.352238353440 (0.0000% better) 🏆
+
+========================================
+Optimization Complete
+Initial Score: 70.743743139401
+Final Score:   70.743743061704
+Improvement:   0.000000077697 (0.00%)
+Total Time:    15.5s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1100_r20_i13.csv
+---
+
+[Время: 2026-01-15 06:39:55.986380] [Прошло: 0:02:39.443643]
+Итерация 14 - Параметры: n=1200, r=20
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743743
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743743061704
+Final Score:   70.743743061704
+Improvement:   0.000000000000 (0.00%)
+Total Time:    15.5s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1200_r20_i14.csv
+---
+
+[Время: 2026-01-15 06:40:14.034617] [Прошло: 0:02:57.491880]
+Итерация 15 - Параметры: n=1300, r=20
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743743
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743743061704
+Final Score:   70.743743061704
+Improvement:   0.000000000000 (0.00%)
+Total Time:    16.3s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1300_r20_i15.csv
+---
+
+[Время: 2026-01-15 06:40:32.901009] [Прошло: 0:03:16.358272]
+Итерация 16 - Параметры: n=1400, r=20
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743743
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743743061704
+Final Score:   70.743743061704
+Improvement:   0.000000000000 (0.00%)
+Total Time:    15.4s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1400_r20_i16.csv
+---
+
+[Время: 2026-01-15 06:40:50.810647] [Прошло: 0:03:34.267910]
+Итерация 17 - Параметры: n=1500, r=20
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743743
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743743061704
+Final Score:   70.743743061704
+Improvement:   0.000000000000 (0.00%)
+Total Time:    15.4s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1500_r20_i17.csv
+---
+
+[Время: 2026-01-15 06:41:08.801587] [Прошло: 0:03:52.258850]
+Итерация 18 - Параметры: n=1600, r=20
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743743
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743743061704
+Final Score:   70.743743061704
+Improvement:   0.000000000000 (0.00%)
+Total Time:    16.0s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1600_r20_i18.csv
+---
+
+[Время: 2026-01-15 06:41:27.330259] [Прошло: 0:04:10.787522]
+Итерация 19 - Параметры: n=1700, r=20
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743743
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+[9] n=102: 0.347140366751 -> 0.347140197703 (0.0000% better) 🏆
+
+========================================
+Optimization Complete
+Initial Score: 70.743743061704
+Final Score:   70.743742892657
+Improvement:   0.000000169048 (0.00%)
+Total Time:    16.3s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1700_r20_i19.csv
+---
+
+[Время: 2026-01-15 06:41:46.122546] [Прошло: 0:04:29.579809]
+Итерация 20 - Параметры: n=1800, r=20
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743743
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743742892657
+Final Score:   70.743742892657
+Improvement:   0.000000000000 (0.00%)
+Total Time:    16.7s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1800_r20_i20.csv
+---
+
+[Время: 2026-01-15 06:42:05.326868] [Прошло: 0:04:48.784131]
+Итерация 21 - Параметры: n=1900, r=20
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743743
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743742892657
+Final Score:   70.743742892657
+Improvement:   0.000000000000 (0.00%)
+Total Time:    17.4s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1900_r20_i21.csv
+---
+
+[Время: 2026-01-15 06:42:25.272660] [Прошло: 0:05:08.729923]
+Итерация 22 - Параметры: n=2000, r=20
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743743
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743742892657
+Final Score:   70.743742892657
+Improvement:   0.000000000000 (0.00%)
+Total Time:    16.9s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n2000_r20_i22.csv
+---
+
+[Время: 2026-01-15 06:42:44.772509] [Прошло: 0:05:28.229772]
+Итерация 23 - Параметры: n=1000, r=30
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743743
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+[10] n= 71: 0.352238353440 -> 0.352237529989 (0.0002% better) 🏆
+
+========================================
+Optimization Complete
+Initial Score: 70.743742892657
+Final Score:   70.743742069206
+Improvement:   0.000000823451 (0.00%)
+Total Time:    22.1s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1000_r30_i23.csv
+---
+
+[Время: 2026-01-15 06:43:09.402714] [Прошло: 0:05:52.859977]
+Итерация 24 - Параметры: n=1100, r=30
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743742
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743742069206
+Final Score:   70.743742069206
+Improvement:   0.000000000000 (0.00%)
+Total Time:    21.6s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1100_r30_i24.csv
+---
+
+[Время: 2026-01-15 06:43:33.579829] [Прошло: 0:06:17.037092]
+Итерация 25 - Параметры: n=1200, r=30
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743742
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743742069206
+Final Score:   70.743742069206
+Improvement:   0.000000000000 (0.00%)
+Total Time:    23.1s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1200_r30_i25.csv
+---
+
+[Время: 2026-01-15 06:43:59.224911] [Прошло: 0:06:42.682174]
+Итерация 26 - Параметры: n=1300, r=30
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743742
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+[11] n=155: 0.332080048641 -> 0.332080041414 (0.0000% better) 🏆
+
+========================================
+Optimization Complete
+Initial Score: 70.743742069206
+Final Score:   70.743742061979
+Improvement:   0.000000007227 (0.00%)
+Total Time:    22.5s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1300_r30_i26.csv
+---
+
+[Время: 2026-01-15 06:44:24.346284] [Прошло: 0:07:07.803547]
+Итерация 27 - Параметры: n=1400, r=30
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743742
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+[11] n=155: 0.332080041414 -> 0.332080027616 (0.0000% better) 🏆
+
+========================================
+Optimization Complete
+Initial Score: 70.743742061979
+Final Score:   70.743742048180
+Improvement:   0.000000013798 (0.00%)
+Total Time:    22.5s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1400_r30_i27.csv
+---
+
+[Время: 2026-01-15 06:44:49.420752] [Прошло: 0:07:32.878015]
+Итерация 28 - Параметры: n=1500, r=30
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743742
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+[3] n=155: 0.332080027616 -> 0.332079770301 (0.0001% better) 🏆
+
+========================================
+Optimization Complete
+Initial Score: 70.743742048180
+Final Score:   70.743741790865
+Improvement:   0.000000257315 (0.00%)
+Total Time:    22.5s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1500_r30_i28.csv
+---
+
+[Время: 2026-01-15 06:45:14.447891] [Прошло: 0:07:57.905154]
+Итерация 29 - Параметры: n=1600, r=30
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743742
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743741790865
+Final Score:   70.743741790865
+Improvement:   0.000000000000 (0.00%)
+Total Time:    27.8s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1600_r30_i29.csv
+---
+
+[Время: 2026-01-15 06:45:44.762691] [Прошло: 0:08:28.219954]
+Итерация 30 - Параметры: n=1700, r=30
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743742
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743741790865
+Final Score:   70.743741790865
+Improvement:   0.000000000000 (0.00%)
+Total Time:    24.3s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1700_r30_i30.csv
+---
+
+[Время: 2026-01-15 06:46:11.580535] [Прошло: 0:08:55.037798]
+Итерация 31 - Параметры: n=1800, r=30
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743742
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+[4] n= 71: 0.352237529989 -> 0.352237490596 (0.0000% better) 🏆
+
+========================================
+Optimization Complete
+Initial Score: 70.743741790865
+Final Score:   70.743741751472
+Improvement:   0.000000039393 (0.00%)
+Total Time:    23.7s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1800_r30_i31.csv
+---
+
+[Время: 2026-01-15 06:46:37.858894] [Прошло: 0:09:21.316157]
+Итерация 32 - Параметры: n=1900, r=30
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743742
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743741751472
+Final Score:   70.743741751472
+Improvement:   0.000000000000 (0.00%)
+Total Time:    25.9s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1900_r30_i32.csv
+---
+
+[Время: 2026-01-15 06:47:06.334549] [Прошло: 0:09:49.791812]
+Итерация 33 - Параметры: n=2000, r=30
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743742
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743741751472
+Final Score:   70.743741751472
+Improvement:   0.000000000000 (0.00%)
+Total Time:    24.0s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n2000_r30_i33.csv
+---
+
+[Время: 2026-01-15 06:47:32.850730] [Прошло: 0:10:16.307993]
+Итерация 34 - Параметры: n=1000, r=40
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743742
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743741751472
+Final Score:   70.743741751472
+Improvement:   0.000000000000 (0.00%)
+Total Time:    30.6s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1000_r40_i34.csv
+---
+
+[Время: 2026-01-15 06:48:05.997163] [Прошло: 0:10:49.454426]
+Итерация 35 - Параметры: n=1100, r=40
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743742
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743741751472
+Final Score:   70.743741751472
+Improvement:   0.000000000000 (0.00%)
+Total Time:    31.2s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1100_r40_i35.csv
+---
+
+[Время: 2026-01-15 06:48:39.684993] [Прошло: 0:11:23.142256]
+Итерация 36 - Параметры: n=1200, r=40
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743742
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743741751472
+Final Score:   70.743741751472
+Improvement:   0.000000000000 (0.00%)
+Total Time:    29.8s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1200_r40_i36.csv
+---
+
+[Время: 2026-01-15 06:49:12.099699] [Прошло: 0:11:55.556962]
+Итерация 37 - Параметры: n=1300, r=40
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743742
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743741751472
+Final Score:   70.743741751472
+Improvement:   0.000000000000 (0.00%)
+Total Time:    29.0s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1300_r40_i37.csv
+---
+
+[Время: 2026-01-15 06:49:43.659801] [Прошло: 0:12:27.117064]
+Итерация 38 - Параметры: n=1400, r=40
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743742
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743741751472
+Final Score:   70.743741751472
+Improvement:   0.000000000000 (0.00%)
+Total Time:    32.0s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1400_r40_i38.csv
+---
+
+[Время: 2026-01-15 06:50:18.252814] [Прошло: 0:13:01.710077]
+Итерация 39 - Параметры: n=1500, r=40
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743742
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743741751472
+Final Score:   70.743741751472
+Improvement:   0.000000000000 (0.00%)
+Total Time:    30.1s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1500_r40_i39.csv
+---
+
+[Время: 2026-01-15 06:50:50.895656] [Прошло: 0:13:34.352919]
+Итерация 40 - Параметры: n=1600, r=40
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743742
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743741751472
+Final Score:   70.743741751472
+Improvement:   0.000000000000 (0.00%)
+Total Time:    31.6s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1600_r40_i40.csv
+---
+
+[Время: 2026-01-15 06:51:24.987931] [Прошло: 0:14:08.445194]
+Итерация 41 - Параметры: n=1700, r=40
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743742
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743741751472
+Final Score:   70.743741751472
+Improvement:   0.000000000000 (0.00%)
+Total Time:    31.0s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1700_r40_i41.csv
+---
+
+[Время: 2026-01-15 06:51:58.509677] [Прошло: 0:14:41.966940]
+Итерация 42 - Параметры: n=1800, r=40
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743742
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743741751472
+Final Score:   70.743741751472
+Improvement:   0.000000000000 (0.00%)
+Total Time:    31.5s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1800_r40_i42.csv
+---
+
+[Время: 2026-01-15 06:52:32.533525] [Прошло: 0:15:15.990788]
+Итерация 43 - Параметры: n=1900, r=40
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743742
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743741751472
+Final Score:   70.743741751472
+Improvement:   0.000000000000 (0.00%)
+Total Time:    32.6s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1900_r40_i43.csv
+---
+
+[Время: 2026-01-15 06:53:07.731919] [Прошло: 0:15:51.189182]
+Итерация 44 - Параметры: n=2000, r=40
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743742
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743741751472
+Final Score:   70.743741751472
+Improvement:   0.000000000000 (0.00%)
+Total Time:    33.1s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n2000_r40_i44.csv
+---
+
+[Время: 2026-01-15 06:53:43.460932] [Прошло: 0:16:26.918195]
+Итерация 45 - Параметры: n=1000, r=50
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743742
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743741751472
+Final Score:   70.743741751472
+Improvement:   0.000000000000 (0.00%)
+Total Time:    36.9s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1000_r50_i45.csv
+---
+
+[Время: 2026-01-15 06:54:22.883032] [Прошло: 0:17:06.340295]
+Итерация 46 - Параметры: n=1100, r=50
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743742
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743741751472
+Final Score:   70.743741751472
+Improvement:   0.000000000000 (0.00%)
+Total Time:    38.2s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1100_r50_i46.csv
+---
+
+[Время: 2026-01-15 06:55:03.571427] [Прошло: 0:17:47.028690]
+Итерация 47 - Параметры: n=1200, r=50
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743742
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+[2] n=155: 0.332079770301 -> 0.332079661716 (0.0000% better) 🏆
+
+========================================
+Optimization Complete
+Initial Score: 70.743741751472
+Final Score:   70.743741642888
+Improvement:   0.000000108584 (0.00%)
+Total Time:    36.8s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1200_r50_i47.csv
+---
+
+[Время: 2026-01-15 06:55:42.947887] [Прошло: 0:18:26.405150]
+Итерация 48 - Параметры: n=1300, r=50
+Loading submission.csv...
+Loaded 200 configs (N=1 to N=200).
+Initial Total Score: 70.743742
+
+Starting parallel optimization on 200 configurations.
+Using 16 threads (Max Concurrency).
+
+
+========================================
+Optimization Complete
+Initial Score: 70.743741642888
+Final Score:   70.743741642888
+Improvement:   0.000000000000 (0.00%)
+Total Time:    38.9s
+========================================
+Saved results to: submission.csv
+
+✓ Сохранено: bbox_sub/submi-n1300_r50_i48.csv
+---
+
+[Время: 2026-01-15 06:56:24.330555] [Прошло: 0:19:07.787818]
+Итерация 49 - Параметры: n=1400, r=50

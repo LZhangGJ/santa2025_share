@@ -1,0 +1,25 @@
+
+==== SA START 2026-01-14 01:10:07.959950 | MAX_HOURS=7.5 ====
+Initial score: 70.765402771405
+
+==== SA START 2026-01-14 01:46:53.095029 | MAX_HOURS=7.5 ====
+Initial score: 70.765295602781
+iter=25 T=8.82e-05 current=70.765259802254 best=70.765259802254 (last n=2000, r=80, changed=2, accept=True)
+
+==== SA START 2026-01-14 02:32:30.629964 | MAX_HOURS=7.5 ====
+Initial score: 70.765262264753
+iter=25 T=8.82e-05 current=70.765215346756 best=70.765215346756 (last n=1900, r=30, changed=2, accept=True)
+iter=50 T=7.78e-05 current=70.765249878491 best=70.765212640271 (last n=1900, r=50, changed=3, accept=True)
+iter=75 T=6.87e-05 current=70.765234880668 best=70.765212640271 (last n=1300, r=20, changed=2, accept=True)
+iter=125 T=5.34e-05 current=70.765215068997 best=70.765212640271 (last n=1800, r=80, changed=1, accept=True)
+iter=200 T=3.67e-05 current=70.765201009243 best=70.765201009243 (last n=450, r=116, changed=4, accept=True)
+iter=225 T=3.24e-05 current=70.765203105377 best=70.765200123579 (last n=1400, r=80, changed=1, accept=True)
+
+==== SA START 2026-01-14 23:08:09.668591 | MAX_HOURS=7.5 ====
+Initial score: inf
+
+==== SA START 2026-01-14 23:20:03.884557 | MAX_HOURS=7.5 ====
+Initial score: inf
+
+==== SA START 2026-01-14 23:25:45.133839 | MAX_HOURS=7.5 ====
+Initial score: inf
