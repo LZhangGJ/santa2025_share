@@ -1,0 +1,32 @@
+{
+  "id": "ngyzly/simulated-annealing-manual-fun-tree-mover-912c77",
+  "id_no": 106871293,
+  "title": "SIMULATED ANNEALING + Manual Fun Tree Mover 912c77",
+  "code_file": "simulated-annealing-manual-fun-tree-mover-912c77.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [
+    "datafad/a-bit-better",
+    "daniilkrizhanovskyi/new-year-same-old-bbox",
+    "chistyakov/new-simple-fix-rebuild-large-layout-general",
+    "yongsukprasertsuk/santa2025-bbox-optimization",
+    "jazivxt/why-not",
+    "datafad/new-year-same-old-bbox",
+    "datafad/a-single-group-optimizer-by-manoj",
+    "saspav/santa-submission",
+    "chistyakov/new-simple-fix-rebuild-large-layout-from-corners",
+    "ngyzly/merging"
+  ],
+  "competition_sources": [
+    "santa-2025"
+  ],
+  "model_sources": [],
+  "docker_image": "gcr.io/kaggle-images/python@sha256:bf0b407a5ed73626191ae2259063a0090ae36666c8f00ffdfae3fb543eae750d",
+  "machine_shape": "None"
+}

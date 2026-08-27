@@ -1,0 +1,41 @@
+{
+  "id": "ngyzly/intergration-of-existing-result-current-bes-029795",
+  "id_no": 107016200,
+  "title": "Intergration of Existing Result(current bes 029795",
+  "code_file": "intergration-of-existing-result-current-bes-029795.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [
+    "chistyakov/sa-on-metamodel-from-2-blocks-88-trees",
+    "zhangtengfei02/a-bit-better-the-best-open-source-result-for-date",
+    "chistyakov/sa-on-metamodel-from-2-blocks-132-trees",
+    "",
+    "yongsukprasertsuk/santa2025-bbox-optimization",
+    "zhangtengfei02/a-super-simple-improvement-strategy",
+    "datafad/new-year-same-old-bbox",
+    "learnmore1/santa-subs-agg-score-track-visual-diagnostics",
+    "datafad/a-single-group-optimizer-by-manoj",
+    "roshaw/new-year-same-old-bbox",
+    "chistyakov/new-simple-fix-rebuild-large-layout-general",
+    "jazivxt/why-not",
+    "abhishekgodara/fork-of-santa-submission-happy-new-year",
+    "samyakrajbayar/manual-tree-shifter-and-checker-sa",
+    "chistyakov/new-simple-fix-rebuild-large-layout-from-corners",
+    "saspav/santa-submission",
+    "datafad/the-boxes-shrunk",
+    "abhishekgodara/santa-s-tree-packing-score",
+    "aikhmelnytskyy/manual-tree-shifter-and-checker-sa"
+  ],
+  "competition_sources": [
+    "santa-2025"
+  ],
+  "model_sources": [],
+  "docker_image": "gcr.io/kaggle-images/python@sha256:9afebf76637ce6541a4a62ba59c41f7cdf5402c3e9b93b86637ef048b20283e0",
+  "machine_shape": "None"
+}

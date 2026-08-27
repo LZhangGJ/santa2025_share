@@ -1,0 +1,25 @@
+{
+  "id": "ngyzly/santa-claude-single-group-optimizer",
+  "id_no": 107233942,
+  "title": "Santa Claude | Single Group Optimizer",
+  "code_file": "santa-claude-single-group-optimizer.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [
+    "smartmanoj/santa-2025-quick-ensemble",
+    "smartmanoj/sparrow",
+    "ngyzly/merging"
+  ],
+  "competition_sources": [
+    "santa-2025"
+  ],
+  "model_sources": [],
+  "docker_image": "gcr.io/kaggle-images/python@sha256:9afebf76637ce6541a4a62ba59c41f7cdf5402c3e9b93b86637ef048b20283e0",
+  "machine_shape": "None"
+}

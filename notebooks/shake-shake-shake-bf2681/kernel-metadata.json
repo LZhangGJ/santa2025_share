@@ -1,0 +1,34 @@
+{
+  "id": "ngyzly/shake-shake-shake-bf2681",
+  "id_no": 108034494,
+  "title": "Shake, Shake, Shake bf2681",
+  "code_file": "shake-shake-shake-bf2681.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "ngyzly/shake-public"
+  ],
+  "kernel_sources": [
+    "artemevstafyev/tree-layout-from-image",
+    "roshaw/the-boxes-shrunk-more",
+    "chistyakov/new-simple-fix-rebuild-large-layout-general",
+    "abhishekgodara/fork-of-santa-tree-challenge",
+    "saspav/santa-submission",
+    "ngyzly/shake-shake-shake-bf2681",
+    "ngyzly/merging",
+    "hossam82/santa-inside-box",
+    "ngyzly/merging-3bcb03-5c3eb3",
+    "yukimakino/merging-3bcb03"
+  ],
+  "competition_sources": [
+    "santa-2025"
+  ],
+  "model_sources": [],
+  "docker_image": "gcr.io/kaggle-images/python@sha256:9afebf76637ce6541a4a62ba59c41f7cdf5402c3e9b93b86637ef048b20283e0",
+  "machine_shape": "None"
+}

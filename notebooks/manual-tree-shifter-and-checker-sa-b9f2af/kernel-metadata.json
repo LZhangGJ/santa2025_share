@@ -1,0 +1,32 @@
+{
+  "id": "ngyzly/manual-tree-shifter-and-checker-sa-b9f2af",
+  "id_no": 107343343,
+  "title": "Manual Tree Shifter and Checker+SA b9f2af",
+  "code_file": "manual-tree-shifter-and-checker-sa-b9f2af.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [
+    "datafad/a-bit-better",
+    "daniilkrizhanovskyi/new-year-same-old-bbox",
+    "yongsukprasertsuk/santa2025-bbox-optimization",
+    "datafad/new-year-same-old-bbox",
+    "datafad/a-single-group-optimizer-by-manoj",
+    "chistyakov/new-simple-fix-rebuild-large-layout-general",
+    "chistyakov/new-simple-fix-rebuild-large-layout-from-corners",
+    "jazivxt/why-not",
+    "ngyzly/merging",
+    "saspav/santa-submission"
+  ],
+  "competition_sources": [
+    "santa-2025"
+  ],
+  "model_sources": [],
+  "docker_image": "gcr.io/kaggle-images/python@sha256:bf0b407a5ed73626191ae2259063a0090ae36666c8f00ffdfae3fb543eae750d",
+  "machine_shape": "None"
+}

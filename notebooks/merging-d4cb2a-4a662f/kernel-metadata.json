@@ -1,0 +1,49 @@
+{
+  "id": "ngyzly/merging-d4cb2a-4a662f",
+  "id_no": 107765424,
+  "title": "merging d4cb2a 4a662f",
+  "code_file": "merging-d4cb2a-4a662f.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "ngyzly/add-dataset",
+    "ngyzly/edited-51",
+    "ngyzly/lzhang-santa2025",
+    "ngyzly/new-optimed"
+  ],
+  "kernel_sources": [
+    "ashrafulhossenakash/score-70-6281",
+    "ngyzly/fast-sa",
+    "ngyzly/santa-submission-4050",
+    "ngyzly/new-simple-fix-rebuild-large-layout-gene-9bc4ba",
+    "balabaskar/new-simple-fix-rebuild-large-layout-check-on-all",
+    "artemevstafyev/tree-layout-from-image",
+    "ngyzly/fork-of-santa-submission-41402f-3c1723",
+    "artemevstafyev/merge-and-optimise",
+    "abhishekgodara/fork-of-santa-tree-challenge",
+    "abhishekgodara/santa-tree-challenge",
+    "ngyzly/merging",
+    "ngyzly/fork-of-fast-simulated-annealing-17-top1",
+    "yukimakino/sparrow-n-v2",
+    "hossam82/santa-inside-box",
+    "chistyakov/shake-shake-shake",
+    "saspav/santa-submission",
+    "jazivxt/eazy-optimizer",
+    "datafad/do-we-want-bronze-filled-with-last-24hr-submits",
+    "datafad/bbox-basic",
+    "datafad/fork-of-the-fork",
+    "jazivxt/team-optimization-blend",
+    "jazivxt/why-not"
+  ],
+  "competition_sources": [
+    "santa-2025"
+  ],
+  "model_sources": [],
+  "docker_image": "gcr.io/kaggle-images/python@sha256:9afebf76637ce6541a4a62ba59c41f7cdf5402c3e9b93b86637ef048b20283e0",
+  "machine_shape": "None"
+}

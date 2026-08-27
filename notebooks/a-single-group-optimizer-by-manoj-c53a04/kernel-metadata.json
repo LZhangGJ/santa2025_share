@@ -1,0 +1,38 @@
+{
+  "id": "ngyzly/a-single-group-optimizer-by-manoj-c53a04",
+  "id_no": 106836416,
+  "title": "A Single Group Optimizer by Manoj c53a04",
+  "code_file": "a-single-group-optimizer-by-manoj-c53a04.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [
+    "smartmanoj/santa-2025-quick-ensemble",
+    "chistyakov/sa-on-metamodel-from-2-blocks-132-trees",
+    "",
+    "yongsukprasertsuk/santa2025-bbox-optimization",
+    "zhangtengfei02/a-super-simple-improvement-strategy",
+    "datafad/new-year-same-old-bbox",
+    "ngyzly/new-simple-fix-rebuild-large-layout-from-corners",
+    "roshaw/new-year-same-old-bbox",
+    "ngyzly/santa-submission-2dbbf9",
+    "chistyakov/new-simple-fix-rebuild-large-layout-general",
+    "chistyakov/new-simple-fix-rebuild-large-layout-from-corners",
+    "aikhmelnytskyy/manual-tree-shifter-and-checker-sa",
+    "zhangtengfei02/intergration-of-existing-result-current-best",
+    "jazivxt/why-not",
+    "saspav/santa-submission",
+    "ngyzly/merging"
+  ],
+  "competition_sources": [
+    "santa-2025"
+  ],
+  "model_sources": [],
+  "docker_image": "gcr.io/kaggle-images/python@sha256:9afebf76637ce6541a4a62ba59c41f7cdf5402c3e9b93b86637ef048b20283e0",
+  "machine_shape": "None"
+}

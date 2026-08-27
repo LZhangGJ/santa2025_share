@@ -1,0 +1,26 @@
+{
+  "id": "ngyzly/new-simple-fix-rebuild-large-layout-gene-9bc4ba",
+  "id_no": 107605046,
+  "title": "New simple fix (rebuild large layout - gene 9bc4ba",
+  "code_file": "new-simple-fix-rebuild-large-layout-gene-9bc4ba.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    ""
+  ],
+  "kernel_sources": [
+    "saspav/santa-submission",
+    "ngyzly/merging"
+  ],
+  "competition_sources": [
+    "santa-2025"
+  ],
+  "model_sources": [],
+  "docker_image": "gcr.io/kaggle-images/python@sha256:9afebf76637ce6541a4a62ba59c41f7cdf5402c3e9b93b86637ef048b20283e0",
+  "machine_shape": "None"
+}

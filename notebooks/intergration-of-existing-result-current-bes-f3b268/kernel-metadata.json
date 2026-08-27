@@ -1,0 +1,38 @@
+{
+  "id": "ngyzly/intergration-of-existing-result-current-bes-f3b268",
+  "id_no": 106771434,
+  "title": "Intergration of Existing Result(current bes f3b268",
+  "code_file": "intergration-of-existing-result-current-bes-f3b268.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [
+    "chistyakov/sa-on-metamodel-from-2-blocks-88-trees",
+    "zhangtengfei02/a-bit-better-the-best-open-source-result-for-date",
+    "chistyakov/new-simple-fix-rebuild-large-layout-general",
+    "chistyakov/sa-on-metamodel-from-2-blocks-132-trees",
+    "",
+    "roshaw/new-year-same-old-bbox",
+    "yongsukprasertsuk/santa2025-bbox-optimization",
+    "zhangtengfei02/a-super-simple-improvement-strategy",
+    "jazivxt/why-not",
+    "chistyakov/new-simple-fix-rebuild-large-layout-from-corners",
+    "datafad/new-year-same-old-bbox",
+    "learnmore1/santa-subs-agg-score-track-visual-diagnostics",
+    "aikhmelnytskyy/manual-tree-shifter-and-checker-sa",
+    "abhishekgodara/fork-of-santa-submission-happy-new-year",
+    "datafad/a-single-group-optimizer-by-manoj",
+    "saspav/santa-submission"
+  ],
+  "competition_sources": [
+    "santa-2025"
+  ],
+  "model_sources": [],
+  "docker_image": "gcr.io/kaggle-images/python@sha256:9afebf76637ce6541a4a62ba59c41f7cdf5402c3e9b93b86637ef048b20283e0",
+  "machine_shape": "None"
+}

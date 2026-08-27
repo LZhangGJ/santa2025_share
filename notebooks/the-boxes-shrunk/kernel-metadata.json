@@ -1,0 +1,30 @@
+{
+  "id": "ngyzly/the-boxes-shrunk",
+  "id_no": 105174001,
+  "title": "The Boxes Shrunk",
+  "code_file": "the-boxes-shrunk.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [
+    "opencv411/a-new-try-santa",
+    "datafad/almost-christmas",
+    "opencv411/santa-final-sub",
+    "yongsukprasertsuk/santa2025-bbox-optimization",
+    "smartmanoj/santa-claude",
+    "saspav/santa-submission",
+    "opencv411/santa-final-final-sub",
+    ""
+  ],
+  "competition_sources": [
+    "santa-2025"
+  ],
+  "model_sources": [],
+  "docker_image": "gcr.io/kaggle-images/python@sha256:bf0b407a5ed73626191ae2259063a0090ae36666c8f00ffdfae3fb543eae750d",
+  "machine_shape": "None"
+}

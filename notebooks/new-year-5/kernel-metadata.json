@@ -1,0 +1,31 @@
+{
+  "id": "ngyzly/new-year-5",
+  "id_no": 106874022,
+  "title": "New Year 5",
+  "code_file": "new-year-5.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [
+    "abhishekgodara/fork-of-santa-submission-happy-new-year",
+    "learnmore1/anneal-for-santa-packing-multi-try-sa-squeeze",
+    "samyakrajbayar/simulated-annealing-2",
+    "samyakrajbayar/santa-submission-22000",
+    "datafad/a-single-group-optimizer-by-manoj",
+    "roshaw/new-year-same-old-bbox",
+    "aikhmelnytskyy/manual-tree-shifter-and-checker-sa",
+    "saspav/santa-submission",
+    "ngyzly/merging"
+  ],
+  "competition_sources": [
+    "santa-2025"
+  ],
+  "model_sources": [],
+  "docker_image": "gcr.io/kaggle-images/python@sha256:bf0b407a5ed73626191ae2259063a0090ae36666c8f00ffdfae3fb543eae750d",
+  "machine_shape": "None"
+}

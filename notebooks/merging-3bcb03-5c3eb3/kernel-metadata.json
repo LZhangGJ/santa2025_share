@@ -1,0 +1,49 @@
+{
+  "id": "ngyzly/merging-3bcb03-5c3eb3",
+  "id_no": 108364355,
+  "title": "merging 3bcb03 5c3eb3",
+  "code_file": "merging-3bcb03-5c3eb3.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "",
+    "ngyzly/add-dataset",
+    "ngyzly/dasdadad",
+    "ngyzly/edited-51",
+    "ngyzly/lzhang-santa2025",
+    "ngyzly/new-code",
+    "ngyzly/new-optimed"
+  ],
+  "kernel_sources": [
+    "ngyzly/fast-sa",
+    "opencv411/final-final-final-try",
+    "datafad/do-we-want-bronze-filled-with-last-24hr-submits",
+    "jazivxt/eazy-optimizer",
+    "jazivxt/why-not",
+    "jazivxt/team-optimization-blend",
+    "datafad/fork-of-the-fork",
+    "ngyzly/why-not",
+    "",
+    "hvanphucs112/bbox3-ensemble-update",
+    "ngyzly/new-simple-fix-rebuild-large-layout-gene-c3bd9b",
+    "ngyzly/fork-of-fast-simulated-annealing-17-top1",
+    "ngyzly/a-super-simple-improvement-strategy",
+    "ngyzly/santa-submission-4050",
+    "nctuan/happy-christmas",
+    "saspav/santa-submission",
+    "ngyzly/shake-shake-shake-bf2681",
+    "yukimakino/shake-shake-shake-bf2681",
+    "ngyzly/merging"
+  ],
+  "competition_sources": [
+    "santa-2025"
+  ],
+  "model_sources": [],
+  "docker_image": "gcr.io/kaggle-images/python@sha256:9afebf76637ce6541a4a62ba59c41f7cdf5402c3e9b93b86637ef048b20283e0",
+  "machine_shape": "None"
+}

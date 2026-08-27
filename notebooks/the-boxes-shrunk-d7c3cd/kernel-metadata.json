@@ -1,0 +1,38 @@
+{
+  "id": "ngyzly/the-boxes-shrunk-d7c3cd",
+  "id_no": 106945251,
+  "title": "The Boxes Shrunk d7c3cd",
+  "code_file": "the-boxes-shrunk-d7c3cd.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [
+    "opencv411/a-new-try-santa",
+    "opencv411/santa-final-sub",
+    "opencv411/santa-final-final-sub",
+    "opencv411/final-final-final-try",
+    "datafad/almost-christmas",
+    "smartmanoj/santa-claude",
+    "yongsukprasertsuk/santa2025-bbox-optimization",
+    "chistyakov/new-simple-fix-rebuild-large-layout-general",
+    "samyakrajbayar/santa-try-2",
+    "jazivxt/why-not",
+    "samyakrajbayar/why-not-2",
+    "abhishekgodara/santa-s-tree-packing-score",
+    "jazivxt/eazy-optimizer",
+    "saspav/santa-submission",
+    "ngyzly/new-simple-fix-rebuild-large-layout-general",
+    "ngyzly/merging"
+  ],
+  "competition_sources": [
+    "santa-2025"
+  ],
+  "model_sources": [],
+  "docker_image": "gcr.io/kaggle-images/python@sha256:bf0b407a5ed73626191ae2259063a0090ae36666c8f00ffdfae3fb543eae750d",
+  "machine_shape": "None"
+}

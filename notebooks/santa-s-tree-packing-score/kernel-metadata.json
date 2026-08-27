@@ -1,0 +1,31 @@
+{
+  "id": "ngyzly/santa-s-tree-packing-score",
+  "id_no": 106866988,
+  "title": "\ud83c\udf84 santa's tree packing | score \ud83d\udd1d\ud83d\udd1d",
+  "code_file": "santa-s-tree-packing-score.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [
+    "abhishekgodara/fork-of-santa-submission-happy-new-year",
+    "learnmore1/anneal-for-santa-packing-multi-try-sa-squeeze",
+    "samyakrajbayar/simulated-annealing-2",
+    "samyakrajbayar/santa-submission-22000",
+    "datafad/a-single-group-optimizer-by-manoj",
+    "roshaw/new-year-same-old-bbox",
+    "aikhmelnytskyy/manual-tree-shifter-and-checker-sa",
+    "saspav/santa-submission",
+    "ngyzly/merging"
+  ],
+  "competition_sources": [
+    "santa-2025"
+  ],
+  "model_sources": [],
+  "docker_image": "gcr.io/kaggle-images/python@sha256:bf0b407a5ed73626191ae2259063a0090ae36666c8f00ffdfae3fb543eae750d",
+  "machine_shape": "None"
+}
